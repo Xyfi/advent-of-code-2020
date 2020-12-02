@@ -1,0 +1,7002 @@
+[
+    {
+        "line": "2-5 l: fllxf",
+        "min": 2,
+        "max": 5,
+        "char": "l",
+        "string": "fllxf"
+    },
+    {
+        "line": "4-5 r: rrrjmrrrrrrh",
+        "min": 4,
+        "max": 5,
+        "char": "r",
+        "string": "rrrjmrrrrrrh"
+    },
+    {
+        "line": "1-4 k: kkksk",
+        "min": 1,
+        "max": 4,
+        "char": "k",
+        "string": "kkksk"
+    },
+    {
+        "line": "7-8 k: tknsqknzkckrwkjkk",
+        "min": 7,
+        "max": 8,
+        "char": "k",
+        "string": "tknsqknzkckrwkjkk"
+    },
+    {
+        "line": "2-3 p: mpbstpxmsxmpnhbwlb",
+        "min": 2,
+        "max": 3,
+        "char": "p",
+        "string": "mpbstpxmsxmpnhbwlb"
+    },
+    {
+        "line": "2-7 j: xkjjtjjjj",
+        "min": 2,
+        "max": 7,
+        "char": "j",
+        "string": "xkjjtjjjj"
+    },
+    {
+        "line": "2-7 m: gczbmgk",
+        "min": 2,
+        "max": 7,
+        "char": "m",
+        "string": "gczbmgk"
+    },
+    {
+        "line": "15-16 q: qqqqqqqqqckqqqfqqq",
+        "min": 15,
+        "max": 16,
+        "char": "q",
+        "string": "qqqqqqqqqckqqqfqqq"
+    },
+    {
+        "line": "7-14 d: dgdddlddddddrvfddnsd",
+        "min": 7,
+        "max": 14,
+        "char": "d",
+        "string": "dgdddlddddddrvfddnsd"
+    },
+    {
+        "line": "7-12 r: rrrrrrrrbrrrl",
+        "min": 7,
+        "max": 12,
+        "char": "r",
+        "string": "rrrrrrrrbrrrl"
+    },
+    {
+        "line": "2-11 p: zppjpwpqppbnppd",
+        "min": 2,
+        "max": 11,
+        "char": "p",
+        "string": "zppjpwpqppbnppd"
+    },
+    {
+        "line": "6-8 w: wqhwwnpwwwr",
+        "min": 6,
+        "max": 8,
+        "char": "w",
+        "string": "wqhwwnpwwwr"
+    },
+    {
+        "line": "4-10 m: fmkmrrrdkmr",
+        "min": 4,
+        "max": 10,
+        "char": "m",
+        "string": "fmkmrrrdkmr"
+    },
+    {
+        "line": "1-2 n: nnjvtnzk",
+        "min": 1,
+        "max": 2,
+        "char": "n",
+        "string": "nnjvtnzk"
+    },
+    {
+        "line": "3-8 t: tdxmzslxtvft",
+        "min": 3,
+        "max": 8,
+        "char": "t",
+        "string": "tdxmzslxtvft"
+    },
+    {
+        "line": "13-14 m: mmmmmhmmmmmmmm",
+        "min": 13,
+        "max": 14,
+        "char": "m",
+        "string": "mmmmmhmmmmmmmm"
+    },
+    {
+        "line": "9-10 l: lljllllllll",
+        "min": 9,
+        "max": 10,
+        "char": "l",
+        "string": "lljllllllll"
+    },
+    {
+        "line": "12-16 t: vdtbdtxtttttrctttkt",
+        "min": 12,
+        "max": 16,
+        "char": "t",
+        "string": "vdtbdtxtttttrctttkt"
+    },
+    {
+        "line": "2-6 q: nqghxqgjqvzswbxww",
+        "min": 2,
+        "max": 6,
+        "char": "q",
+        "string": "nqghxqgjqvzswbxww"
+    },
+    {
+        "line": "4-6 k: khkkkkvrkgfwvbd",
+        "min": 4,
+        "max": 6,
+        "char": "k",
+        "string": "khkkkkvrkgfwvbd"
+    },
+    {
+        "line": "4-5 r: hrrpv",
+        "min": 4,
+        "max": 5,
+        "char": "r",
+        "string": "hrrpv"
+    },
+    {
+        "line": "5-8 g: gggggggg",
+        "min": 5,
+        "max": 8,
+        "char": "g",
+        "string": "gggggggg"
+    },
+    {
+        "line": "5-8 f: fjsfftfs",
+        "min": 5,
+        "max": 8,
+        "char": "f",
+        "string": "fjsfftfs"
+    },
+    {
+        "line": "9-12 p: ppfpnxpvppfspp",
+        "min": 9,
+        "max": 12,
+        "char": "p",
+        "string": "ppfpnxpvppfspp"
+    },
+    {
+        "line": "14-19 x: lrxxxtxxxxxxxzxxxxx",
+        "min": 14,
+        "max": 19,
+        "char": "x",
+        "string": "lrxxxtxxxxxxxzxxxxx"
+    },
+    {
+        "line": "4-6 b: pqbqbbx",
+        "min": 4,
+        "max": 6,
+        "char": "b",
+        "string": "pqbqbbx"
+    },
+    {
+        "line": "10-12 x: mlxkxxxzctrkz",
+        "min": 10,
+        "max": 12,
+        "char": "x",
+        "string": "mlxkxxxzctrkz"
+    },
+    {
+        "line": "2-7 b: tmbzmsb",
+        "min": 2,
+        "max": 7,
+        "char": "b",
+        "string": "tmbzmsb"
+    },
+    {
+        "line": "16-19 k: kkkdkkkkkkkmklhkkkkk",
+        "min": 16,
+        "max": 19,
+        "char": "k",
+        "string": "kkkdkkkkkkkmklhkkkkk"
+    },
+    {
+        "line": "4-11 h: lpnhfccshxhg",
+        "min": 4,
+        "max": 11,
+        "char": "h",
+        "string": "lpnhfccshxhg"
+    },
+    {
+        "line": "4-5 n: nsnhgnk",
+        "min": 4,
+        "max": 5,
+        "char": "n",
+        "string": "nsnhgnk"
+    },
+    {
+        "line": "1-7 j: jjjjjwsjd",
+        "min": 1,
+        "max": 7,
+        "char": "j",
+        "string": "jjjjjwsjd"
+    },
+    {
+        "line": "9-12 s: snsssssskssss",
+        "min": 9,
+        "max": 12,
+        "char": "s",
+        "string": "snsssssskssss"
+    },
+    {
+        "line": "7-8 w: wwlwwwhww",
+        "min": 7,
+        "max": 8,
+        "char": "w",
+        "string": "wwlwwwhww"
+    },
+    {
+        "line": "3-12 h: znhvqgfgjvlh",
+        "min": 3,
+        "max": 12,
+        "char": "h",
+        "string": "znhvqgfgjvlh"
+    },
+    {
+        "line": "9-11 d: dddfddddddg",
+        "min": 9,
+        "max": 11,
+        "char": "d",
+        "string": "dddfddddddg"
+    },
+    {
+        "line": "2-5 j: jjkkrndpdmscjfwvx",
+        "min": 2,
+        "max": 5,
+        "char": "j",
+        "string": "jjkkrndpdmscjfwvx"
+    },
+    {
+        "line": "1-10 v: vfgbvzlwvvcc",
+        "min": 1,
+        "max": 10,
+        "char": "v",
+        "string": "vfgbvzlwvvcc"
+    },
+    {
+        "line": "6-15 q: mcqqqqbqcgltqqjz",
+        "min": 6,
+        "max": 15,
+        "char": "q",
+        "string": "mcqqqqbqcgltqqjz"
+    },
+    {
+        "line": "5-9 q: qprqvzkqsqqt",
+        "min": 5,
+        "max": 9,
+        "char": "q",
+        "string": "qprqvzkqsqqt"
+    },
+    {
+        "line": "4-6 l: kldtxl",
+        "min": 4,
+        "max": 6,
+        "char": "l",
+        "string": "kldtxl"
+    },
+    {
+        "line": "6-14 j: jjjjjjjjjjjjjjjj",
+        "min": 6,
+        "max": 14,
+        "char": "j",
+        "string": "jjjjjjjjjjjjjjjj"
+    },
+    {
+        "line": "3-6 m: mmmjwwsm",
+        "min": 3,
+        "max": 6,
+        "char": "m",
+        "string": "mmmjwwsm"
+    },
+    {
+        "line": "6-15 p: pffpppppdqpfppbpppk",
+        "min": 6,
+        "max": 15,
+        "char": "p",
+        "string": "pffpppppdqpfppbpppk"
+    },
+    {
+        "line": "12-14 s: sssssssssssssz",
+        "min": 12,
+        "max": 14,
+        "char": "s",
+        "string": "sssssssssssssz"
+    },
+    {
+        "line": "7-13 b: xmbblmsksbbbwbb",
+        "min": 7,
+        "max": 13,
+        "char": "b",
+        "string": "xmbblmsksbbbwbb"
+    },
+    {
+        "line": "4-5 q: dfqfmtqjcvqrq",
+        "min": 4,
+        "max": 5,
+        "char": "q",
+        "string": "dfqfmtqjcvqrq"
+    },
+    {
+        "line": "3-5 l: kvrll",
+        "min": 3,
+        "max": 5,
+        "char": "l",
+        "string": "kvrll"
+    },
+    {
+        "line": "2-4 w: wsww",
+        "min": 2,
+        "max": 4,
+        "char": "w",
+        "string": "wsww"
+    },
+    {
+        "line": "8-10 f: bfffzfpcfjhw",
+        "min": 8,
+        "max": 10,
+        "char": "f",
+        "string": "bfffzfpcfjhw"
+    },
+    {
+        "line": "9-10 c: ccccjcccckc",
+        "min": 9,
+        "max": 10,
+        "char": "c",
+        "string": "ccccjcccckc"
+    },
+    {
+        "line": "11-14 q: vqqqpqtqqqlqqqqqxsft",
+        "min": 11,
+        "max": 14,
+        "char": "q",
+        "string": "vqqqpqtqqqlqqqqqxsft"
+    },
+    {
+        "line": "2-4 l: xrzlkmcfl",
+        "min": 2,
+        "max": 4,
+        "char": "l",
+        "string": "xrzlkmcfl"
+    },
+    {
+        "line": "7-17 c: cccccsccccccccccg",
+        "min": 7,
+        "max": 17,
+        "char": "c",
+        "string": "cccccsccccccccccg"
+    },
+    {
+        "line": "6-8 z: jzzljvmzzvzzgvzz",
+        "min": 6,
+        "max": 8,
+        "char": "z",
+        "string": "jzzljvmzzvzzgvzz"
+    },
+    {
+        "line": "5-10 w: fwwwwxwmqwz",
+        "min": 5,
+        "max": 10,
+        "char": "w",
+        "string": "fwwwwxwmqwz"
+    },
+    {
+        "line": "10-12 d: dddddddddmddd",
+        "min": 10,
+        "max": 12,
+        "char": "d",
+        "string": "dddddddddmddd"
+    },
+    {
+        "line": "1-2 k: lzptzkccbmnpqpc",
+        "min": 1,
+        "max": 2,
+        "char": "k",
+        "string": "lzptzkccbmnpqpc"
+    },
+    {
+        "line": "3-5 j: bjmzzjt",
+        "min": 3,
+        "max": 5,
+        "char": "j",
+        "string": "bjmzzjt"
+    },
+    {
+        "line": "4-10 q: qrjtfzgqdt",
+        "min": 4,
+        "max": 10,
+        "char": "q",
+        "string": "qrjtfzgqdt"
+    },
+    {
+        "line": "8-14 m: mmmmmmsmmmmmmm",
+        "min": 8,
+        "max": 14,
+        "char": "m",
+        "string": "mmmmmmsmmmmmmm"
+    },
+    {
+        "line": "12-13 b: bbbbbbbbbbbrz",
+        "min": 12,
+        "max": 13,
+        "char": "b",
+        "string": "bbbbbbbbbbbrz"
+    },
+    {
+        "line": "2-4 p: vppzp",
+        "min": 2,
+        "max": 4,
+        "char": "p",
+        "string": "vppzp"
+    },
+    {
+        "line": "4-8 q: tqqqnvhqprdqrqd",
+        "min": 4,
+        "max": 8,
+        "char": "q",
+        "string": "tqqqnvhqprdqrqd"
+    },
+    {
+        "line": "6-8 r: gcrwjcrq",
+        "min": 6,
+        "max": 8,
+        "char": "r",
+        "string": "gcrwjcrq"
+    },
+    {
+        "line": "9-13 p: pgppvppppppsp",
+        "min": 9,
+        "max": 13,
+        "char": "p",
+        "string": "pgppvppppppsp"
+    },
+    {
+        "line": "8-10 n: npnngnndvndn",
+        "min": 8,
+        "max": 10,
+        "char": "n",
+        "string": "npnngnndvndn"
+    },
+    {
+        "line": "3-9 h: hwmkhhhnnh",
+        "min": 3,
+        "max": 9,
+        "char": "h",
+        "string": "hwmkhhhnnh"
+    },
+    {
+        "line": "4-12 l: lnllwtrsctgl",
+        "min": 4,
+        "max": 12,
+        "char": "l",
+        "string": "lnllwtrsctgl"
+    },
+    {
+        "line": "3-4 b: bpbbkqddb",
+        "min": 3,
+        "max": 4,
+        "char": "b",
+        "string": "bpbbkqddb"
+    },
+    {
+        "line": "1-3 d: dbdsfhnzp",
+        "min": 1,
+        "max": 3,
+        "char": "d",
+        "string": "dbdsfhnzp"
+    },
+    {
+        "line": "9-10 l: lllllftlllll",
+        "min": 9,
+        "max": 10,
+        "char": "l",
+        "string": "lllllftlllll"
+    },
+    {
+        "line": "3-5 v: vvvvvv",
+        "min": 3,
+        "max": 5,
+        "char": "v",
+        "string": "vvvvvv"
+    },
+    {
+        "line": "3-5 p: dpvppp",
+        "min": 3,
+        "max": 5,
+        "char": "p",
+        "string": "dpvppp"
+    },
+    {
+        "line": "1-4 z: zzzfz",
+        "min": 1,
+        "max": 4,
+        "char": "z",
+        "string": "zzzfz"
+    },
+    {
+        "line": "6-7 q: qqqqqcq",
+        "min": 6,
+        "max": 7,
+        "char": "q",
+        "string": "qqqqqcq"
+    },
+    {
+        "line": "4-6 p: pcppppbbfrcfbp",
+        "min": 4,
+        "max": 6,
+        "char": "p",
+        "string": "pcppppbbfrcfbp"
+    },
+    {
+        "line": "3-8 x: qqxfbxjtmqk",
+        "min": 3,
+        "max": 8,
+        "char": "x",
+        "string": "qqxfbxjtmqk"
+    },
+    {
+        "line": "4-5 m: tmmmrmm",
+        "min": 4,
+        "max": 5,
+        "char": "m",
+        "string": "tmmmrmm"
+    },
+    {
+        "line": "9-10 h: hhshhhhhhhhhhh",
+        "min": 9,
+        "max": 10,
+        "char": "h",
+        "string": "hhshhhhhhhhhhh"
+    },
+    {
+        "line": "3-4 b: dbbvbx",
+        "min": 3,
+        "max": 4,
+        "char": "b",
+        "string": "dbbvbx"
+    },
+    {
+        "line": "2-5 s: sspzssckbzrjjsbbw",
+        "min": 2,
+        "max": 5,
+        "char": "s",
+        "string": "sspzssckbzrjjsbbw"
+    },
+    {
+        "line": "5-11 w: wbbzkwnnbpggqprbmzg",
+        "min": 5,
+        "max": 11,
+        "char": "w",
+        "string": "wbbzkwnnbpggqprbmzg"
+    },
+    {
+        "line": "5-10 d: dddxdddddtdgdsdd",
+        "min": 5,
+        "max": 10,
+        "char": "d",
+        "string": "dddxdddddtdgdsdd"
+    },
+    {
+        "line": "9-13 p: pnkrpxcspctmwphsh",
+        "min": 9,
+        "max": 13,
+        "char": "p",
+        "string": "pnkrpxcspctmwphsh"
+    },
+    {
+        "line": "17-18 b: bbbbbbbhbbbbbbqbbqb",
+        "min": 17,
+        "max": 18,
+        "char": "b",
+        "string": "bbbbbbbhbbbbbbqbbqb"
+    },
+    {
+        "line": "1-3 r: blfcfnrrqkfh",
+        "min": 1,
+        "max": 3,
+        "char": "r",
+        "string": "blfcfnrrqkfh"
+    },
+    {
+        "line": "2-5 j: jvjsjj",
+        "min": 2,
+        "max": 5,
+        "char": "j",
+        "string": "jvjsjj"
+    },
+    {
+        "line": "8-15 x: fxvxkxxxxvxxlxzxb",
+        "min": 8,
+        "max": 15,
+        "char": "x",
+        "string": "fxvxkxxxxvxxlxzxb"
+    },
+    {
+        "line": "4-10 k: kkkktkkkkpkkkk",
+        "min": 4,
+        "max": 10,
+        "char": "k",
+        "string": "kkkktkkkkpkkkk"
+    },
+    {
+        "line": "4-5 j: sjjjj",
+        "min": 4,
+        "max": 5,
+        "char": "j",
+        "string": "sjjjj"
+    },
+    {
+        "line": "4-6 b: mbbtbb",
+        "min": 4,
+        "max": 6,
+        "char": "b",
+        "string": "mbbtbb"
+    },
+    {
+        "line": "2-12 p: ppfspvgmvzzpcf",
+        "min": 2,
+        "max": 12,
+        "char": "p",
+        "string": "ppfspvgmvzzpcf"
+    },
+    {
+        "line": "4-5 h: crzbh",
+        "min": 4,
+        "max": 5,
+        "char": "h",
+        "string": "crzbh"
+    },
+    {
+        "line": "13-17 d: qdddddddddddddkdd",
+        "min": 13,
+        "max": 17,
+        "char": "d",
+        "string": "qdddddddddddddkdd"
+    },
+    {
+        "line": "6-7 n: pnfzhbg",
+        "min": 6,
+        "max": 7,
+        "char": "n",
+        "string": "pnfzhbg"
+    },
+    {
+        "line": "9-11 x: xpxxxtfhbxxxxt",
+        "min": 9,
+        "max": 11,
+        "char": "x",
+        "string": "xpxxxtfhbxxxxt"
+    },
+    {
+        "line": "5-7 d: ddzdxdw",
+        "min": 5,
+        "max": 7,
+        "char": "d",
+        "string": "ddzdxdw"
+    },
+    {
+        "line": "12-18 j: zjlsrtflbpjjljfjjh",
+        "min": 12,
+        "max": 18,
+        "char": "j",
+        "string": "zjlsrtflbpjjljfjjh"
+    },
+    {
+        "line": "2-4 l: qclk",
+        "min": 2,
+        "max": 4,
+        "char": "l",
+        "string": "qclk"
+    },
+    {
+        "line": "7-8 w: wwwgwwrw",
+        "min": 7,
+        "max": 8,
+        "char": "w",
+        "string": "wwwgwwrw"
+    },
+    {
+        "line": "4-5 q: qqqwq",
+        "min": 4,
+        "max": 5,
+        "char": "q",
+        "string": "qqqwq"
+    },
+    {
+        "line": "3-6 z: fczcjzpsdddqmbqkz",
+        "min": 3,
+        "max": 6,
+        "char": "z",
+        "string": "fczcjzpsdddqmbqkz"
+    },
+    {
+        "line": "7-8 z: mkhzjzzl",
+        "min": 7,
+        "max": 8,
+        "char": "z",
+        "string": "mkhzjzzl"
+    },
+    {
+        "line": "2-3 k: kdkp",
+        "min": 2,
+        "max": 3,
+        "char": "k",
+        "string": "kdkp"
+    },
+    {
+        "line": "11-12 d: qdqddxdwdbdddddddktw",
+        "min": 11,
+        "max": 12,
+        "char": "d",
+        "string": "qdqddxdwdbdddddddktw"
+    },
+    {
+        "line": "13-16 w: wwwwcwwwwwwmwwwwpw",
+        "min": 13,
+        "max": 16,
+        "char": "w",
+        "string": "wwwwcwwwwwwmwwwwpw"
+    },
+    {
+        "line": "6-7 s: sxsjstsss",
+        "min": 6,
+        "max": 7,
+        "char": "s",
+        "string": "sxsjstsss"
+    },
+    {
+        "line": "15-16 c: cccccwccccccccvc",
+        "min": 15,
+        "max": 16,
+        "char": "c",
+        "string": "cccccwccccccccvc"
+    },
+    {
+        "line": "13-14 v: xvdtvghjvkvmvbvvx",
+        "min": 13,
+        "max": 14,
+        "char": "v",
+        "string": "xvdtvghjvkvmvbvvx"
+    },
+    {
+        "line": "5-6 g: gggggpg",
+        "min": 5,
+        "max": 6,
+        "char": "g",
+        "string": "gggggpg"
+    },
+    {
+        "line": "6-7 l: lllllzljl",
+        "min": 6,
+        "max": 7,
+        "char": "l",
+        "string": "lllllzljl"
+    },
+    {
+        "line": "4-10 z: nkczdqzhfz",
+        "min": 4,
+        "max": 10,
+        "char": "z",
+        "string": "nkczdqzhfz"
+    },
+    {
+        "line": "2-10 x: xlxxxxxfxx",
+        "min": 2,
+        "max": 10,
+        "char": "x",
+        "string": "xlxxxxxfxx"
+    },
+    {
+        "line": "1-7 t: jttglvttttm",
+        "min": 1,
+        "max": 7,
+        "char": "t",
+        "string": "jttglvttttm"
+    },
+    {
+        "line": "7-8 k: hkkkrkkk",
+        "min": 7,
+        "max": 8,
+        "char": "k",
+        "string": "hkkkrkkk"
+    },
+    {
+        "line": "9-12 n: wrnnnnnnpnnnnn",
+        "min": 9,
+        "max": 12,
+        "char": "n",
+        "string": "wrnnnnnnpnnnnn"
+    },
+    {
+        "line": "3-4 l: llgk",
+        "min": 3,
+        "max": 4,
+        "char": "l",
+        "string": "llgk"
+    },
+    {
+        "line": "6-7 h: vhzhhghh",
+        "min": 6,
+        "max": 7,
+        "char": "h",
+        "string": "vhzhhghh"
+    },
+    {
+        "line": "8-9 h: hhmhhhhjhmhz",
+        "min": 8,
+        "max": 9,
+        "char": "h",
+        "string": "hhmhhhhjhmhz"
+    },
+    {
+        "line": "3-4 m: gmrsmm",
+        "min": 3,
+        "max": 4,
+        "char": "m",
+        "string": "gmrsmm"
+    },
+    {
+        "line": "12-14 s: ssstxhsssssssjnsssf",
+        "min": 12,
+        "max": 14,
+        "char": "s",
+        "string": "ssstxhsssssssjnsssf"
+    },
+    {
+        "line": "10-19 l: lllllllllllllllllll",
+        "min": 10,
+        "max": 19,
+        "char": "l",
+        "string": "lllllllllllllllllll"
+    },
+    {
+        "line": "14-16 m: mmcmmmmmmmmmmqmm",
+        "min": 14,
+        "max": 16,
+        "char": "m",
+        "string": "mmcmmmmmmmmmmqmm"
+    },
+    {
+        "line": "11-12 p: fppppptppppqpp",
+        "min": 11,
+        "max": 12,
+        "char": "p",
+        "string": "fppppptppppqpp"
+    },
+    {
+        "line": "7-16 s: ssssdssssssssssh",
+        "min": 7,
+        "max": 16,
+        "char": "s",
+        "string": "ssssdssssssssssh"
+    },
+    {
+        "line": "2-6 c: zcxcpm",
+        "min": 2,
+        "max": 6,
+        "char": "c",
+        "string": "zcxcpm"
+    },
+    {
+        "line": "5-10 h: hhhrhjjhhhhnhhhwl",
+        "min": 5,
+        "max": 10,
+        "char": "h",
+        "string": "hhhrhjjhhhhnhhhwl"
+    },
+    {
+        "line": "14-15 x: xxxxxxxxxxnxxtxtx",
+        "min": 14,
+        "max": 15,
+        "char": "x",
+        "string": "xxxxxxxxxxnxxtxtx"
+    },
+    {
+        "line": "3-8 f: fpffpfkzff",
+        "min": 3,
+        "max": 8,
+        "char": "f",
+        "string": "fpffpfkzff"
+    },
+    {
+        "line": "3-7 x: xxxxkxkx",
+        "min": 3,
+        "max": 7,
+        "char": "x",
+        "string": "xxxxkxkx"
+    },
+    {
+        "line": "8-9 n: nnnnnnnnnn",
+        "min": 8,
+        "max": 9,
+        "char": "n",
+        "string": "nnnnnnnnnn"
+    },
+    {
+        "line": "6-9 c: pccccqcccc",
+        "min": 6,
+        "max": 9,
+        "char": "c",
+        "string": "pccccqcccc"
+    },
+    {
+        "line": "7-13 s: sssspsrsssssfss",
+        "min": 7,
+        "max": 13,
+        "char": "s",
+        "string": "sssspsrsssssfss"
+    },
+    {
+        "line": "3-6 q: qqqqqq",
+        "min": 3,
+        "max": 6,
+        "char": "q",
+        "string": "qqqqqq"
+    },
+    {
+        "line": "5-6 d: ddddfz",
+        "min": 5,
+        "max": 6,
+        "char": "d",
+        "string": "ddddfz"
+    },
+    {
+        "line": "4-5 p: gpqppdbpcptfpczlpcbm",
+        "min": 4,
+        "max": 5,
+        "char": "p",
+        "string": "gpqppdbpcptfpczlpcbm"
+    },
+    {
+        "line": "2-4 b: xbtbjmmxrbfbwbxb",
+        "min": 2,
+        "max": 4,
+        "char": "b",
+        "string": "xbtbjmmxrbfbwbxb"
+    },
+    {
+        "line": "1-7 w: vwwwwwx",
+        "min": 1,
+        "max": 7,
+        "char": "w",
+        "string": "vwwwwwx"
+    },
+    {
+        "line": "9-20 w: wwwwwwwwwwwwwwwwwwww",
+        "min": 9,
+        "max": 20,
+        "char": "w",
+        "string": "wwwwwwwwwwwwwwwwwwww"
+    },
+    {
+        "line": "4-6 d: cdwtdddwtqs",
+        "min": 4,
+        "max": 6,
+        "char": "d",
+        "string": "cdwtdddwtqs"
+    },
+    {
+        "line": "8-15 r: rrlrrndprzrrrrklr",
+        "min": 8,
+        "max": 15,
+        "char": "r",
+        "string": "rrlrrndprzrrrrklr"
+    },
+    {
+        "line": "4-19 h: rhhhhcxhhctknztthhf",
+        "min": 4,
+        "max": 19,
+        "char": "h",
+        "string": "rhhhhcxhhctknztthhf"
+    },
+    {
+        "line": "2-11 r: pvchfrzhgcqxsjx",
+        "min": 2,
+        "max": 11,
+        "char": "r",
+        "string": "pvchfrzhgcqxsjx"
+    },
+    {
+        "line": "8-12 m: mqfmqmmmpmmmpmkvzsm",
+        "min": 8,
+        "max": 12,
+        "char": "m",
+        "string": "mqfmqmmmpmmmpmkvzsm"
+    },
+    {
+        "line": "2-5 b: fbmnkrxh",
+        "min": 2,
+        "max": 5,
+        "char": "b",
+        "string": "fbmnkrxh"
+    },
+    {
+        "line": "4-5 q: qqrlp",
+        "min": 4,
+        "max": 5,
+        "char": "q",
+        "string": "qqrlp"
+    },
+    {
+        "line": "3-4 r: kprrr",
+        "min": 3,
+        "max": 4,
+        "char": "r",
+        "string": "kprrr"
+    },
+    {
+        "line": "2-3 q: qzql",
+        "min": 2,
+        "max": 3,
+        "char": "q",
+        "string": "qzql"
+    },
+    {
+        "line": "8-16 t: ctktlttttcktxqtqht",
+        "min": 8,
+        "max": 16,
+        "char": "t",
+        "string": "ctktlttttcktxqtqht"
+    },
+    {
+        "line": "10-14 z: zzzzzzzzzpzzzzzzzz",
+        "min": 10,
+        "max": 14,
+        "char": "z",
+        "string": "zzzzzzzzzpzzzzzzzz"
+    },
+    {
+        "line": "9-12 z: zrvjkzzgkzzrzzqzzfm",
+        "min": 9,
+        "max": 12,
+        "char": "z",
+        "string": "zrvjkzzgkzzrzzqzzfm"
+    },
+    {
+        "line": "2-4 c: ccdcp",
+        "min": 2,
+        "max": 4,
+        "char": "c",
+        "string": "ccdcp"
+    },
+    {
+        "line": "4-6 z: zpzrzh",
+        "min": 4,
+        "max": 6,
+        "char": "z",
+        "string": "zpzrzh"
+    },
+    {
+        "line": "7-10 n: wnnlhdpntvsmrnbmps",
+        "min": 7,
+        "max": 10,
+        "char": "n",
+        "string": "wnnlhdpntvsmrnbmps"
+    },
+    {
+        "line": "14-15 v: vbvsvvvnvvvfvvfvvvv",
+        "min": 14,
+        "max": 15,
+        "char": "v",
+        "string": "vbvsvvvnvvvfvvfvvvv"
+    },
+    {
+        "line": "6-10 w: xwwwwvwwww",
+        "min": 6,
+        "max": 10,
+        "char": "w",
+        "string": "xwwwwvwwww"
+    },
+    {
+        "line": "1-6 n: nnnnnnn",
+        "min": 1,
+        "max": 6,
+        "char": "n",
+        "string": "nnnnnnn"
+    },
+    {
+        "line": "2-12 g: pgmdgpgggsngpwgvjkg",
+        "min": 2,
+        "max": 12,
+        "char": "g",
+        "string": "pgmdgpgggsngpwgvjkg"
+    },
+    {
+        "line": "12-13 g: ggggmgmggggggg",
+        "min": 12,
+        "max": 13,
+        "char": "g",
+        "string": "ggggmgmggggggg"
+    },
+    {
+        "line": "4-7 q: vthqqchfn",
+        "min": 4,
+        "max": 7,
+        "char": "q",
+        "string": "vthqqchfn"
+    },
+    {
+        "line": "2-4 q: qpmqq",
+        "min": 2,
+        "max": 4,
+        "char": "q",
+        "string": "qpmqq"
+    },
+    {
+        "line": "10-11 j: pjhjjjjjjjjjvj",
+        "min": 10,
+        "max": 11,
+        "char": "j",
+        "string": "pjhjjjjjjjjjvj"
+    },
+    {
+        "line": "1-10 l: lgdgqqgvmnscl",
+        "min": 1,
+        "max": 10,
+        "char": "l",
+        "string": "lgdgqqgvmnscl"
+    },
+    {
+        "line": "12-13 l: rlmnkmnltzlmlq",
+        "min": 12,
+        "max": 13,
+        "char": "l",
+        "string": "rlmnkmnltzlmlq"
+    },
+    {
+        "line": "4-9 l: lllllgllh",
+        "min": 4,
+        "max": 9,
+        "char": "l",
+        "string": "lllllgllh"
+    },
+    {
+        "line": "10-16 v: xjjvvvdvvvvvvvvvvvv",
+        "min": 10,
+        "max": 16,
+        "char": "v",
+        "string": "xjjvvvdvvvvvvvvvvvv"
+    },
+    {
+        "line": "1-6 x: glxzxfcxglrcwrwcgl",
+        "min": 1,
+        "max": 6,
+        "char": "x",
+        "string": "glxzxfcxglrcwrwcgl"
+    },
+    {
+        "line": "2-4 t: tttntd",
+        "min": 2,
+        "max": 4,
+        "char": "t",
+        "string": "tttntd"
+    },
+    {
+        "line": "9-16 w: wwwhmwwwwwwmwwwxww",
+        "min": 9,
+        "max": 16,
+        "char": "w",
+        "string": "wwwhmwwwwwwmwwwxww"
+    },
+    {
+        "line": "9-11 m: mnmsmmmmmmmm",
+        "min": 9,
+        "max": 11,
+        "char": "m",
+        "string": "mnmsmmmmmmmm"
+    },
+    {
+        "line": "8-16 h: pnrsxhrhhjlqchnh",
+        "min": 8,
+        "max": 16,
+        "char": "h",
+        "string": "pnrsxhrhhjlqchnh"
+    },
+    {
+        "line": "9-15 c: cxwmcpnjtrccrcn",
+        "min": 9,
+        "max": 15,
+        "char": "c",
+        "string": "cxwmcpnjtrccrcn"
+    },
+    {
+        "line": "8-9 s: rsssnsshnsksd",
+        "min": 8,
+        "max": 9,
+        "char": "s",
+        "string": "rsssnsshnsksd"
+    },
+    {
+        "line": "2-6 s: cfklcdd",
+        "min": 2,
+        "max": 6,
+        "char": "s",
+        "string": "cfklcdd"
+    },
+    {
+        "line": "6-9 m: qmmmmmmvxmwm",
+        "min": 6,
+        "max": 9,
+        "char": "m",
+        "string": "qmmmmmmvxmwm"
+    },
+    {
+        "line": "3-6 c: cwctccshc",
+        "min": 3,
+        "max": 6,
+        "char": "c",
+        "string": "cwctccshc"
+    },
+    {
+        "line": "3-4 x: xpkxffbfkzvjrxb",
+        "min": 3,
+        "max": 4,
+        "char": "x",
+        "string": "xpkxffbfkzvjrxb"
+    },
+    {
+        "line": "4-5 r: rrrnrr",
+        "min": 4,
+        "max": 5,
+        "char": "r",
+        "string": "rrrnrr"
+    },
+    {
+        "line": "10-12 j: jjjjjjbjjkjj",
+        "min": 10,
+        "max": 12,
+        "char": "j",
+        "string": "jjjjjjbjjkjj"
+    },
+    {
+        "line": "3-17 d: sndddlgljdjckpbldb",
+        "min": 3,
+        "max": 17,
+        "char": "d",
+        "string": "sndddlgljdjckpbldb"
+    },
+    {
+        "line": "5-6 x: wzrxxgxwvdfxnq",
+        "min": 5,
+        "max": 6,
+        "char": "x",
+        "string": "wzrxxgxwvdfxnq"
+    },
+    {
+        "line": "7-9 l: hhlflqhxknlnbllkl",
+        "min": 7,
+        "max": 9,
+        "char": "l",
+        "string": "hhlflqhxknlnbllkl"
+    },
+    {
+        "line": "8-11 m: wmhmmmmnmmmmm",
+        "min": 8,
+        "max": 11,
+        "char": "m",
+        "string": "wmhmmmmnmmmmm"
+    },
+    {
+        "line": "13-14 k: kknkfkkkhzkkkkkxkkk",
+        "min": 13,
+        "max": 14,
+        "char": "k",
+        "string": "kknkfkkkhzkkkkkxkkk"
+    },
+    {
+        "line": "2-4 s: skss",
+        "min": 2,
+        "max": 4,
+        "char": "s",
+        "string": "skss"
+    },
+    {
+        "line": "2-4 m: mmgtm",
+        "min": 2,
+        "max": 4,
+        "char": "m",
+        "string": "mmgtm"
+    },
+    {
+        "line": "2-8 r: qrrdpppvgrrcrrvs",
+        "min": 2,
+        "max": 8,
+        "char": "r",
+        "string": "qrrdpppvgrrcrrvs"
+    },
+    {
+        "line": "12-16 d: dddddddddrdddddczd",
+        "min": 12,
+        "max": 16,
+        "char": "d",
+        "string": "dddddddddrdddddczd"
+    },
+    {
+        "line": "19-20 x: xxxxxxxxcxxxxxxxxxxl",
+        "min": 19,
+        "max": 20,
+        "char": "x",
+        "string": "xxxxxxxxcxxxxxxxxxxl"
+    },
+    {
+        "line": "7-10 b: bcfpbmlqnrpcnx",
+        "min": 7,
+        "max": 10,
+        "char": "b",
+        "string": "bcfpbmlqnrpcnx"
+    },
+    {
+        "line": "1-14 d: fdpddhdrddqdddqdd",
+        "min": 1,
+        "max": 14,
+        "char": "d",
+        "string": "fdpddhdrddqdddqdd"
+    },
+    {
+        "line": "5-7 d: ddddxdvdd",
+        "min": 5,
+        "max": 7,
+        "char": "d",
+        "string": "ddddxdvdd"
+    },
+    {
+        "line": "11-18 j: fjxjjjjjjjkmjjjjjgjj",
+        "min": 11,
+        "max": 18,
+        "char": "j",
+        "string": "fjxjjjjjjjkmjjjjjgjj"
+    },
+    {
+        "line": "3-4 t: zjtp",
+        "min": 3,
+        "max": 4,
+        "char": "t",
+        "string": "zjtp"
+    },
+    {
+        "line": "2-4 r: rrrdr",
+        "min": 2,
+        "max": 4,
+        "char": "r",
+        "string": "rrrdr"
+    },
+    {
+        "line": "9-11 b: bbbbbqbjqgbbbbbhbjq",
+        "min": 9,
+        "max": 11,
+        "char": "b",
+        "string": "bbbbbqbjqgbbbbbhbjq"
+    },
+    {
+        "line": "6-7 f: ffbfffgf",
+        "min": 6,
+        "max": 7,
+        "char": "f",
+        "string": "ffbfffgf"
+    },
+    {
+        "line": "4-5 x: xxxqf",
+        "min": 4,
+        "max": 5,
+        "char": "x",
+        "string": "xxxqf"
+    },
+    {
+        "line": "1-7 c: jcnbqbcwcc",
+        "min": 1,
+        "max": 7,
+        "char": "c",
+        "string": "jcnbqbcwcc"
+    },
+    {
+        "line": "13-15 q: qqwqqqqqqqgqrqj",
+        "min": 13,
+        "max": 15,
+        "char": "q",
+        "string": "qqwqqqqqqqgqrqj"
+    },
+    {
+        "line": "13-14 h: kxkjzplvmhrrhl",
+        "min": 13,
+        "max": 14,
+        "char": "h",
+        "string": "kxkjzplvmhrrhl"
+    },
+    {
+        "line": "6-10 j: jjjjjtjjjmj",
+        "min": 6,
+        "max": 10,
+        "char": "j",
+        "string": "jjjjjtjjjmj"
+    },
+    {
+        "line": "4-8 v: vvvnvmvrhb",
+        "min": 4,
+        "max": 8,
+        "char": "v",
+        "string": "vvvnvmvrhb"
+    },
+    {
+        "line": "1-12 k: kkkdrkqhkkdkkhdk",
+        "min": 1,
+        "max": 12,
+        "char": "k",
+        "string": "kkkdrkqhkkdkkhdk"
+    },
+    {
+        "line": "2-5 n: lnfjb",
+        "min": 2,
+        "max": 5,
+        "char": "n",
+        "string": "lnfjb"
+    },
+    {
+        "line": "10-12 q: qqqqqqcfqlqqqq",
+        "min": 10,
+        "max": 12,
+        "char": "q",
+        "string": "qqqqqqcfqlqqqq"
+    },
+    {
+        "line": "1-16 s: ssssssssssssssscs",
+        "min": 1,
+        "max": 16,
+        "char": "s",
+        "string": "ssssssssssssssscs"
+    },
+    {
+        "line": "12-14 l: nlllsllltllcllll",
+        "min": 12,
+        "max": 14,
+        "char": "l",
+        "string": "nlllsllltllcllll"
+    },
+    {
+        "line": "4-5 p: ppppcxwngtcgkjmpb",
+        "min": 4,
+        "max": 5,
+        "char": "p",
+        "string": "ppppcxwngtcgkjmpb"
+    },
+    {
+        "line": "16-17 h: hhhhhhlhhhhhhhhnhh",
+        "min": 16,
+        "max": 17,
+        "char": "h",
+        "string": "hhhhhhlhhhhhhhhnhh"
+    },
+    {
+        "line": "3-4 x: xxxx",
+        "min": 3,
+        "max": 4,
+        "char": "x",
+        "string": "xxxx"
+    },
+    {
+        "line": "3-4 f: ffhff",
+        "min": 3,
+        "max": 4,
+        "char": "f",
+        "string": "ffhff"
+    },
+    {
+        "line": "5-6 t: tntthtth",
+        "min": 5,
+        "max": 6,
+        "char": "t",
+        "string": "tntthtth"
+    },
+    {
+        "line": "15-18 f: jffffffnffffffffff",
+        "min": 15,
+        "max": 18,
+        "char": "f",
+        "string": "jffffffnffffffffff"
+    },
+    {
+        "line": "14-18 z: zzzzzszzzzzgmszzzzzz",
+        "min": 14,
+        "max": 18,
+        "char": "z",
+        "string": "zzzzzszzzzzgmszzzzzz"
+    },
+    {
+        "line": "3-4 n: nfnnnn",
+        "min": 3,
+        "max": 4,
+        "char": "n",
+        "string": "nfnnnn"
+    },
+    {
+        "line": "1-8 q: bmfhqhqqqqmqqqdz",
+        "min": 1,
+        "max": 8,
+        "char": "q",
+        "string": "bmfhqhqqqqmqqqdz"
+    },
+    {
+        "line": "4-7 q: kqqhtqqjqkqqrxvjzqc",
+        "min": 4,
+        "max": 7,
+        "char": "q",
+        "string": "kqqhtqqjqkqqrxvjzqc"
+    },
+    {
+        "line": "4-5 j: jsjjjjj",
+        "min": 4,
+        "max": 5,
+        "char": "j",
+        "string": "jsjjjjj"
+    },
+    {
+        "line": "12-18 v: vvvvvvvvvvvsvvvvvnv",
+        "min": 12,
+        "max": 18,
+        "char": "v",
+        "string": "vvvvvvvvvvvsvvvvvnv"
+    },
+    {
+        "line": "2-10 f: nfffffffmmhn",
+        "min": 2,
+        "max": 10,
+        "char": "f",
+        "string": "nfffffffmmhn"
+    },
+    {
+        "line": "1-7 z: zzzxzczzc",
+        "min": 1,
+        "max": 7,
+        "char": "z",
+        "string": "zzzxzczzc"
+    },
+    {
+        "line": "1-8 l: jpflllcllqdllckwvrb",
+        "min": 1,
+        "max": 8,
+        "char": "l",
+        "string": "jpflllcllqdllckwvrb"
+    },
+    {
+        "line": "7-10 x: xxxxxxxxxz",
+        "min": 7,
+        "max": 10,
+        "char": "x",
+        "string": "xxxxxxxxxz"
+    },
+    {
+        "line": "3-6 t: stftpt",
+        "min": 3,
+        "max": 6,
+        "char": "t",
+        "string": "stftpt"
+    },
+    {
+        "line": "1-5 t: tttzt",
+        "min": 1,
+        "max": 5,
+        "char": "t",
+        "string": "tttzt"
+    },
+    {
+        "line": "2-4 g: gggsgggggggwg",
+        "min": 2,
+        "max": 4,
+        "char": "g",
+        "string": "gggsgggggggwg"
+    },
+    {
+        "line": "4-7 l: xlllvvlmrlrqfzx",
+        "min": 4,
+        "max": 7,
+        "char": "l",
+        "string": "xlllvvlmrlrqfzx"
+    },
+    {
+        "line": "8-11 q: qqqqqqzrqqq",
+        "min": 8,
+        "max": 11,
+        "char": "q",
+        "string": "qqqqqqzrqqq"
+    },
+    {
+        "line": "1-9 f: ffcltnxdrdnfnk",
+        "min": 1,
+        "max": 9,
+        "char": "f",
+        "string": "ffcltnxdrdnfnk"
+    },
+    {
+        "line": "1-13 f: ffffffffffffhfffff",
+        "min": 1,
+        "max": 13,
+        "char": "f",
+        "string": "ffffffffffffhfffff"
+    },
+    {
+        "line": "13-18 g: gsggggggggggtggggg",
+        "min": 13,
+        "max": 18,
+        "char": "g",
+        "string": "gsggggggggggtggggg"
+    },
+    {
+        "line": "6-12 c: xrcrcccccxckgcch",
+        "min": 6,
+        "max": 12,
+        "char": "c",
+        "string": "xrcrcccccxckgcch"
+    },
+    {
+        "line": "2-9 f: pfcdmnfzjdqjnl",
+        "min": 2,
+        "max": 9,
+        "char": "f",
+        "string": "pfcdmnfzjdqjnl"
+    },
+    {
+        "line": "4-15 r: wxrlrfrrgrrbrdvrr",
+        "min": 4,
+        "max": 15,
+        "char": "r",
+        "string": "wxrlrfrrgrrbrdvrr"
+    },
+    {
+        "line": "8-9 l: llllllllxlll",
+        "min": 8,
+        "max": 9,
+        "char": "l",
+        "string": "llllllllxlll"
+    },
+    {
+        "line": "1-2 d: dpdddd",
+        "min": 1,
+        "max": 2,
+        "char": "d",
+        "string": "dpdddd"
+    },
+    {
+        "line": "4-6 w: wwwpwdnww",
+        "min": 4,
+        "max": 6,
+        "char": "w",
+        "string": "wwwpwdnww"
+    },
+    {
+        "line": "1-3 s: vhkzssg",
+        "min": 1,
+        "max": 3,
+        "char": "s",
+        "string": "vhkzssg"
+    },
+    {
+        "line": "10-13 x: xxxxxxxxxxxxxx",
+        "min": 10,
+        "max": 13,
+        "char": "x",
+        "string": "xxxxxxxxxxxxxx"
+    },
+    {
+        "line": "1-7 n: nnnnnnjnn",
+        "min": 1,
+        "max": 7,
+        "char": "n",
+        "string": "nnnnnnjnn"
+    },
+    {
+        "line": "3-8 x: xvxxnxzx",
+        "min": 3,
+        "max": 8,
+        "char": "x",
+        "string": "xvxxnxzx"
+    },
+    {
+        "line": "12-13 l: lllllllllllll",
+        "min": 12,
+        "max": 13,
+        "char": "l",
+        "string": "lllllllllllll"
+    },
+    {
+        "line": "15-17 l: lllzllllllllllklll",
+        "min": 15,
+        "max": 17,
+        "char": "l",
+        "string": "lllzllllllllllklll"
+    },
+    {
+        "line": "10-14 m: hmmmmmmmmmmmmm",
+        "min": 10,
+        "max": 14,
+        "char": "m",
+        "string": "hmmmmmmmmmmmmm"
+    },
+    {
+        "line": "2-9 m: mmmvmsntmmmn",
+        "min": 2,
+        "max": 9,
+        "char": "m",
+        "string": "mmmvmsntmmmn"
+    },
+    {
+        "line": "6-8 z: zzzzzqzz",
+        "min": 6,
+        "max": 8,
+        "char": "z",
+        "string": "zzzzzqzz"
+    },
+    {
+        "line": "1-4 h: gqlhh",
+        "min": 1,
+        "max": 4,
+        "char": "h",
+        "string": "gqlhh"
+    },
+    {
+        "line": "2-5 q: wqksgtqxgqgdhgqwcq",
+        "min": 2,
+        "max": 5,
+        "char": "q",
+        "string": "wqksgtqxgqgdhgqwcq"
+    },
+    {
+        "line": "17-19 q: qpqqqqqqqqqqqqqqhqq",
+        "min": 17,
+        "max": 19,
+        "char": "q",
+        "string": "qpqqqqqqqqqqqqqqhqq"
+    },
+    {
+        "line": "1-4 z: jzzzz",
+        "min": 1,
+        "max": 4,
+        "char": "z",
+        "string": "jzzzz"
+    },
+    {
+        "line": "2-5 z: gznrz",
+        "min": 2,
+        "max": 5,
+        "char": "z",
+        "string": "gznrz"
+    },
+    {
+        "line": "1-5 j: wjjjjj",
+        "min": 1,
+        "max": 5,
+        "char": "j",
+        "string": "wjjjjj"
+    },
+    {
+        "line": "4-5 h: hhmglhh",
+        "min": 4,
+        "max": 5,
+        "char": "h",
+        "string": "hhmglhh"
+    },
+    {
+        "line": "2-12 w: nhqwwwtwdbwwmwwwzhw",
+        "min": 2,
+        "max": 12,
+        "char": "w",
+        "string": "nhqwwwtwdbwwmwwwzhw"
+    },
+    {
+        "line": "10-13 x: xxxxxxgxxlrxmtxxpm",
+        "min": 10,
+        "max": 13,
+        "char": "x",
+        "string": "xxxxxxgxxlrxmtxxpm"
+    },
+    {
+        "line": "7-15 w: ktwhswwhwwwhsqwfw",
+        "min": 7,
+        "max": 15,
+        "char": "w",
+        "string": "ktwhswwhwwwhsqwfw"
+    },
+    {
+        "line": "1-3 h: hnwthhcd",
+        "min": 1,
+        "max": 3,
+        "char": "h",
+        "string": "hnwthhcd"
+    },
+    {
+        "line": "2-5 c: rdcvh",
+        "min": 2,
+        "max": 5,
+        "char": "c",
+        "string": "rdcvh"
+    },
+    {
+        "line": "10-13 x: fwxqxxzxnxtbx",
+        "min": 10,
+        "max": 13,
+        "char": "x",
+        "string": "fwxqxxzxnxtbx"
+    },
+    {
+        "line": "3-10 m: dmjmzmqmhbml",
+        "min": 3,
+        "max": 10,
+        "char": "m",
+        "string": "dmjmzmqmhbml"
+    },
+    {
+        "line": "8-15 s: wcsswxxbrsdsrpss",
+        "min": 8,
+        "max": 15,
+        "char": "s",
+        "string": "wcsswxxbrsdsrpss"
+    },
+    {
+        "line": "4-5 c: cjccvc",
+        "min": 4,
+        "max": 5,
+        "char": "c",
+        "string": "cjccvc"
+    },
+    {
+        "line": "9-10 z: zzzzzzzzzz",
+        "min": 9,
+        "max": 10,
+        "char": "z",
+        "string": "zzzzzzzzzz"
+    },
+    {
+        "line": "2-3 h: hhhz",
+        "min": 2,
+        "max": 3,
+        "char": "h",
+        "string": "hhhz"
+    },
+    {
+        "line": "6-7 w: wwgzsjwwvwlgww",
+        "min": 6,
+        "max": 7,
+        "char": "w",
+        "string": "wwgzsjwwvwlgww"
+    },
+    {
+        "line": "3-8 g: gtxgggggcgfg",
+        "min": 3,
+        "max": 8,
+        "char": "g",
+        "string": "gtxgggggcgfg"
+    },
+    {
+        "line": "2-3 m: gmmrsgkmsvslw",
+        "min": 2,
+        "max": 3,
+        "char": "m",
+        "string": "gmmrsgkmsvslw"
+    },
+    {
+        "line": "10-11 x: xmxxxxxxxmxx",
+        "min": 10,
+        "max": 11,
+        "char": "x",
+        "string": "xmxxxxxxxmxx"
+    },
+    {
+        "line": "2-17 r: bcrtchxrgrqvrqgnm",
+        "min": 2,
+        "max": 17,
+        "char": "r",
+        "string": "bcrtchxrgrqvrqgnm"
+    },
+    {
+        "line": "7-18 r: rrrxrrrrzfrjrwrrrrmk",
+        "min": 7,
+        "max": 18,
+        "char": "r",
+        "string": "rrrxrrrrzfrjrwrrrrmk"
+    },
+    {
+        "line": "7-11 z: zzzwzzwzzzzrz",
+        "min": 7,
+        "max": 11,
+        "char": "z",
+        "string": "zzzwzzwzzzzrz"
+    },
+    {
+        "line": "2-5 j: jmrjj",
+        "min": 2,
+        "max": 5,
+        "char": "j",
+        "string": "jmrjj"
+    },
+    {
+        "line": "7-11 g: gkgggqgglmggnggqglqg",
+        "min": 7,
+        "max": 11,
+        "char": "g",
+        "string": "gkgggqgglmggnggqglqg"
+    },
+    {
+        "line": "2-5 l: rlbkllxctprqflhll",
+        "min": 2,
+        "max": 5,
+        "char": "l",
+        "string": "rlbkllxctprqflhll"
+    },
+    {
+        "line": "4-13 p: mppprjpnxhrzpbp",
+        "min": 4,
+        "max": 13,
+        "char": "p",
+        "string": "mppprjpnxhrzpbp"
+    },
+    {
+        "line": "14-16 p: pkppppzpppppjppg",
+        "min": 14,
+        "max": 16,
+        "char": "p",
+        "string": "pkppppzpppppjppg"
+    },
+    {
+        "line": "13-15 n: jdndnxnnhntnnndsnn",
+        "min": 13,
+        "max": 15,
+        "char": "n",
+        "string": "jdndnxnnhntnnndsnn"
+    },
+    {
+        "line": "1-2 m: pqmm",
+        "min": 1,
+        "max": 2,
+        "char": "m",
+        "string": "pqmm"
+    },
+    {
+        "line": "4-13 j: jjwjfmmjjjjjjpg",
+        "min": 4,
+        "max": 13,
+        "char": "j",
+        "string": "jjwjfmmjjjjjjpg"
+    },
+    {
+        "line": "3-4 j: nfht",
+        "min": 3,
+        "max": 4,
+        "char": "j",
+        "string": "nfht"
+    },
+    {
+        "line": "7-11 f: vfffffzffcff",
+        "min": 7,
+        "max": 11,
+        "char": "f",
+        "string": "vfffffzffcff"
+    },
+    {
+        "line": "10-12 p: pppppppppjpj",
+        "min": 10,
+        "max": 12,
+        "char": "p",
+        "string": "pppppppppjpj"
+    },
+    {
+        "line": "3-4 b: bbbb",
+        "min": 3,
+        "max": 4,
+        "char": "b",
+        "string": "bbbb"
+    },
+    {
+        "line": "5-9 p: ppqppppppppt",
+        "min": 5,
+        "max": 9,
+        "char": "p",
+        "string": "ppqppppppppt"
+    },
+    {
+        "line": "5-7 g: ggggggvg",
+        "min": 5,
+        "max": 7,
+        "char": "g",
+        "string": "ggggggvg"
+    },
+    {
+        "line": "11-14 z: zvzzfzzzqzkzzzzzzzf",
+        "min": 11,
+        "max": 14,
+        "char": "z",
+        "string": "zvzzfzzzqzkzzzzzzzf"
+    },
+    {
+        "line": "2-5 c: hcgpjqjkpvgcxxrf",
+        "min": 2,
+        "max": 5,
+        "char": "c",
+        "string": "hcgpjqjkpvgcxxrf"
+    },
+    {
+        "line": "9-11 v: vvkvvcfqqvvffgvvvvs",
+        "min": 9,
+        "max": 11,
+        "char": "v",
+        "string": "vvkvvcfqqvvffgvvvvs"
+    },
+    {
+        "line": "8-9 d: rldntbdcz",
+        "min": 8,
+        "max": 9,
+        "char": "d",
+        "string": "rldntbdcz"
+    },
+    {
+        "line": "15-19 p: ppppppppnpppppppgppp",
+        "min": 15,
+        "max": 19,
+        "char": "p",
+        "string": "ppppppppnpppppppgppp"
+    },
+    {
+        "line": "7-8 w: wwwzwpwzmkxcwwtgw",
+        "min": 7,
+        "max": 8,
+        "char": "w",
+        "string": "wwwzwpwzmkxcwwtgw"
+    },
+    {
+        "line": "4-8 z: zzrzzfdzk",
+        "min": 4,
+        "max": 8,
+        "char": "z",
+        "string": "zzrzzfdzk"
+    },
+    {
+        "line": "8-9 g: gggggggqn",
+        "min": 8,
+        "max": 9,
+        "char": "g",
+        "string": "gggggggqn"
+    },
+    {
+        "line": "1-7 c: czcccngw",
+        "min": 1,
+        "max": 7,
+        "char": "c",
+        "string": "czcccngw"
+    },
+    {
+        "line": "3-12 t: btdtgfclmpttqttctstt",
+        "min": 3,
+        "max": 12,
+        "char": "t",
+        "string": "btdtgfclmpttqttctstt"
+    },
+    {
+        "line": "2-3 n: jjglbnnzrjgd",
+        "min": 2,
+        "max": 3,
+        "char": "n",
+        "string": "jjglbnnzrjgd"
+    },
+    {
+        "line": "7-10 h: hmhhpxhhhhh",
+        "min": 7,
+        "max": 10,
+        "char": "h",
+        "string": "hmhhpxhhhhh"
+    },
+    {
+        "line": "4-6 v: vvvvnv",
+        "min": 4,
+        "max": 6,
+        "char": "v",
+        "string": "vvvvnv"
+    },
+    {
+        "line": "9-11 m: mmdbmmmqgmrh",
+        "min": 9,
+        "max": 11,
+        "char": "m",
+        "string": "mmdbmmmqgmrh"
+    },
+    {
+        "line": "2-3 r: rjrrrrrrrl",
+        "min": 2,
+        "max": 3,
+        "char": "r",
+        "string": "rjrrrrrrrl"
+    },
+    {
+        "line": "1-5 q: qjjqfzfq",
+        "min": 1,
+        "max": 5,
+        "char": "q",
+        "string": "qjjqfzfq"
+    },
+    {
+        "line": "4-5 z: zbzzc",
+        "min": 4,
+        "max": 5,
+        "char": "z",
+        "string": "zbzzc"
+    },
+    {
+        "line": "9-12 c: ccccccccqccc",
+        "min": 9,
+        "max": 12,
+        "char": "c",
+        "string": "ccccccccqccc"
+    },
+    {
+        "line": "6-8 d: kdfkdtrv",
+        "min": 6,
+        "max": 8,
+        "char": "d",
+        "string": "kdfkdtrv"
+    },
+    {
+        "line": "4-12 r: rrrzrrrrrrrmrrrrr",
+        "min": 4,
+        "max": 12,
+        "char": "r",
+        "string": "rrrzrrrrrrrmrrrrr"
+    },
+    {
+        "line": "1-5 h: hhhhxh",
+        "min": 1,
+        "max": 5,
+        "char": "h",
+        "string": "hhhhxh"
+    },
+    {
+        "line": "9-10 t: cztttttttttttt",
+        "min": 9,
+        "max": 10,
+        "char": "t",
+        "string": "cztttttttttttt"
+    },
+    {
+        "line": "15-17 j: jjjjjjrjcjvjfjjjcjdj",
+        "min": 15,
+        "max": 17,
+        "char": "j",
+        "string": "jjjjjjrjcjvjfjjjcjdj"
+    },
+    {
+        "line": "4-5 t: tftvt",
+        "min": 4,
+        "max": 5,
+        "char": "t",
+        "string": "tftvt"
+    },
+    {
+        "line": "2-4 d: qddvrp",
+        "min": 2,
+        "max": 4,
+        "char": "d",
+        "string": "qddvrp"
+    },
+    {
+        "line": "7-13 p: pdrspdzpcxdcpzzxpwtg",
+        "min": 7,
+        "max": 13,
+        "char": "p",
+        "string": "pdrspdzpcxdcpzzxpwtg"
+    },
+    {
+        "line": "12-13 l: llllllljllllll",
+        "min": 12,
+        "max": 13,
+        "char": "l",
+        "string": "llllllljllllll"
+    },
+    {
+        "line": "13-14 s: sssssssssssssn",
+        "min": 13,
+        "max": 14,
+        "char": "s",
+        "string": "sssssssssssssn"
+    },
+    {
+        "line": "5-7 f: lnfsffrfg",
+        "min": 5,
+        "max": 7,
+        "char": "f",
+        "string": "lnfsffrfg"
+    },
+    {
+        "line": "2-8 r: krtrhgqnn",
+        "min": 2,
+        "max": 8,
+        "char": "r",
+        "string": "krtrhgqnn"
+    },
+    {
+        "line": "3-5 j: jxjjjnflwcjj",
+        "min": 3,
+        "max": 5,
+        "char": "j",
+        "string": "jxjjjnflwcjj"
+    },
+    {
+        "line": "6-7 r: rrrrrrmrxrr",
+        "min": 6,
+        "max": 7,
+        "char": "r",
+        "string": "rrrrrrmrxrr"
+    },
+    {
+        "line": "8-9 t: tsttqcctx",
+        "min": 8,
+        "max": 9,
+        "char": "t",
+        "string": "tsttqcctx"
+    },
+    {
+        "line": "4-5 v: vvvvcv",
+        "min": 4,
+        "max": 5,
+        "char": "v",
+        "string": "vvvvcv"
+    },
+    {
+        "line": "10-17 j: jjjjcjjjjwjjjjjjkzj",
+        "min": 10,
+        "max": 17,
+        "char": "j",
+        "string": "jjjjcjjjjwjjjjjjkzj"
+    },
+    {
+        "line": "15-16 t: nttttsttttzttttt",
+        "min": 15,
+        "max": 16,
+        "char": "t",
+        "string": "nttttsttttzttttt"
+    },
+    {
+        "line": "5-7 c: cccclccc",
+        "min": 5,
+        "max": 7,
+        "char": "c",
+        "string": "cccclccc"
+    },
+    {
+        "line": "3-4 x: kxkx",
+        "min": 3,
+        "max": 4,
+        "char": "x",
+        "string": "kxkx"
+    },
+    {
+        "line": "4-9 l: zslllldlnql",
+        "min": 4,
+        "max": 9,
+        "char": "l",
+        "string": "zslllldlnql"
+    },
+    {
+        "line": "13-18 f: fffmflfffffhdffffwf",
+        "min": 13,
+        "max": 18,
+        "char": "f",
+        "string": "fffmflfffffhdffffwf"
+    },
+    {
+        "line": "8-10 m: mvmmmmhmmvmh",
+        "min": 8,
+        "max": 10,
+        "char": "m",
+        "string": "mvmmmmhmmvmh"
+    },
+    {
+        "line": "4-6 j: jsjjjmfs",
+        "min": 4,
+        "max": 6,
+        "char": "j",
+        "string": "jsjjjmfs"
+    },
+    {
+        "line": "11-13 h: hfnhhhhhhhthhh",
+        "min": 11,
+        "max": 13,
+        "char": "h",
+        "string": "hfnhhhhhhhthhh"
+    },
+    {
+        "line": "5-13 g: gsqgcgqggfggl",
+        "min": 5,
+        "max": 13,
+        "char": "g",
+        "string": "gsqgcgqggfggl"
+    },
+    {
+        "line": "7-8 p: ppjqppppp",
+        "min": 7,
+        "max": 8,
+        "char": "p",
+        "string": "ppjqppppp"
+    },
+    {
+        "line": "11-12 b: tbbbbbbbbbbdb",
+        "min": 11,
+        "max": 12,
+        "char": "b",
+        "string": "tbbbbbbbbbbdb"
+    },
+    {
+        "line": "1-4 q: qqqzq",
+        "min": 1,
+        "max": 4,
+        "char": "q",
+        "string": "qqqzq"
+    },
+    {
+        "line": "8-9 s: xssssssns",
+        "min": 8,
+        "max": 9,
+        "char": "s",
+        "string": "xssssssns"
+    },
+    {
+        "line": "6-9 p: pppppppppp",
+        "min": 6,
+        "max": 9,
+        "char": "p",
+        "string": "pppppppppp"
+    },
+    {
+        "line": "3-8 j: jvjjjjjjrjj",
+        "min": 3,
+        "max": 8,
+        "char": "j",
+        "string": "jvjjjjjjrjj"
+    },
+    {
+        "line": "6-17 b: bbbbblbfbvbxbbbbbt",
+        "min": 6,
+        "max": 17,
+        "char": "b",
+        "string": "bbbbblbfbvbxbbbbbt"
+    },
+    {
+        "line": "3-7 j: jjgjmhjjj",
+        "min": 3,
+        "max": 7,
+        "char": "j",
+        "string": "jjgjmhjjj"
+    },
+    {
+        "line": "4-6 v: njvgsq",
+        "min": 4,
+        "max": 6,
+        "char": "v",
+        "string": "njvgsq"
+    },
+    {
+        "line": "17-18 h: hhhhhhhhvhhhhhlhshhh",
+        "min": 17,
+        "max": 18,
+        "char": "h",
+        "string": "hhhhhhhhvhhhhhlhshhh"
+    },
+    {
+        "line": "8-9 m: mmmmmmjdbm",
+        "min": 8,
+        "max": 9,
+        "char": "m",
+        "string": "mmmmmmjdbm"
+    },
+    {
+        "line": "2-11 x: xxxjdgxpxxwxtvkxxxlm",
+        "min": 2,
+        "max": 11,
+        "char": "x",
+        "string": "xxxjdgxpxxwxtvkxxxlm"
+    },
+    {
+        "line": "9-16 n: nnnnnnnnnnnnnnnsnn",
+        "min": 9,
+        "max": 16,
+        "char": "n",
+        "string": "nnnnnnnnnnnnnnnsnn"
+    },
+    {
+        "line": "17-19 w: wwbwwwwwwwwwtwwwwwww",
+        "min": 17,
+        "max": 19,
+        "char": "w",
+        "string": "wwbwwwwwwwwwtwwwwwww"
+    },
+    {
+        "line": "7-8 n: qwbxqsbmpnj",
+        "min": 7,
+        "max": 8,
+        "char": "n",
+        "string": "qwbxqsbmpnj"
+    },
+    {
+        "line": "5-6 j: jjjjqjjjjj",
+        "min": 5,
+        "max": 6,
+        "char": "j",
+        "string": "jjjjqjjjjj"
+    },
+    {
+        "line": "2-4 s: fssg",
+        "min": 2,
+        "max": 4,
+        "char": "s",
+        "string": "fssg"
+    },
+    {
+        "line": "5-12 l: dgnzdllptvvlx",
+        "min": 5,
+        "max": 12,
+        "char": "l",
+        "string": "dgnzdllptvvlx"
+    },
+    {
+        "line": "7-12 x: xwxxxxgxxtxbkx",
+        "min": 7,
+        "max": 12,
+        "char": "x",
+        "string": "xwxxxxgxxtxbkx"
+    },
+    {
+        "line": "6-12 x: xkmxzgxlnnxq",
+        "min": 6,
+        "max": 12,
+        "char": "x",
+        "string": "xkmxzgxlnnxq"
+    },
+    {
+        "line": "2-6 h: vnshjh",
+        "min": 2,
+        "max": 6,
+        "char": "h",
+        "string": "vnshjh"
+    },
+    {
+        "line": "2-5 x: dxxqxpvsm",
+        "min": 2,
+        "max": 5,
+        "char": "x",
+        "string": "dxxqxpvsm"
+    },
+    {
+        "line": "13-14 p: pppppppptpppjp",
+        "min": 13,
+        "max": 14,
+        "char": "p",
+        "string": "pppppppptpppjp"
+    },
+    {
+        "line": "7-8 h: hthhhxhph",
+        "min": 7,
+        "max": 8,
+        "char": "h",
+        "string": "hthhhxhph"
+    },
+    {
+        "line": "5-12 j: jtjrjcnjjjjxjjjj",
+        "min": 5,
+        "max": 12,
+        "char": "j",
+        "string": "jtjrjcnjjjjxjjjj"
+    },
+    {
+        "line": "1-5 j: jfjjwjj",
+        "min": 1,
+        "max": 5,
+        "char": "j",
+        "string": "jfjjwjj"
+    },
+    {
+        "line": "5-6 q: qqqqqq",
+        "min": 5,
+        "max": 6,
+        "char": "q",
+        "string": "qqqqqq"
+    },
+    {
+        "line": "6-8 t: ttnttvttt",
+        "min": 6,
+        "max": 8,
+        "char": "t",
+        "string": "ttnttvttt"
+    },
+    {
+        "line": "3-5 n: gksnnn",
+        "min": 3,
+        "max": 5,
+        "char": "n",
+        "string": "gksnnn"
+    },
+    {
+        "line": "6-9 j: jjjjjljjj",
+        "min": 6,
+        "max": 9,
+        "char": "j",
+        "string": "jjjjjljjj"
+    },
+    {
+        "line": "3-4 d: dbdh",
+        "min": 3,
+        "max": 4,
+        "char": "d",
+        "string": "dbdh"
+    },
+    {
+        "line": "1-5 n: hjhfhrgbcnqn",
+        "min": 1,
+        "max": 5,
+        "char": "n",
+        "string": "hjhfhrgbcnqn"
+    },
+    {
+        "line": "10-13 l: llwllllllllll",
+        "min": 10,
+        "max": 13,
+        "char": "l",
+        "string": "llwllllllllll"
+    },
+    {
+        "line": "2-3 s: dqss",
+        "min": 2,
+        "max": 3,
+        "char": "s",
+        "string": "dqss"
+    },
+    {
+        "line": "1-3 l: lwqbqdml",
+        "min": 1,
+        "max": 3,
+        "char": "l",
+        "string": "lwqbqdml"
+    },
+    {
+        "line": "10-11 r: rrvdcgrrwhrpsrzjtrl",
+        "min": 10,
+        "max": 11,
+        "char": "r",
+        "string": "rrvdcgrrwhrpsrzjtrl"
+    },
+    {
+        "line": "1-2 d: bcdd",
+        "min": 1,
+        "max": 2,
+        "char": "d",
+        "string": "bcdd"
+    },
+    {
+        "line": "10-11 v: vvvvvvvvvcq",
+        "min": 10,
+        "max": 11,
+        "char": "v",
+        "string": "vvvvvvvvvcq"
+    },
+    {
+        "line": "5-15 z: qcgsnhcrzzdfzpp",
+        "min": 5,
+        "max": 15,
+        "char": "z",
+        "string": "qcgsnhcrzzdfzpp"
+    },
+    {
+        "line": "1-15 w: cfwzjwcgpwwwwwgwxw",
+        "min": 1,
+        "max": 15,
+        "char": "w",
+        "string": "cfwzjwcgpwwwwwgwxw"
+    },
+    {
+        "line": "11-12 t: gttfknrmtkbwt",
+        "min": 11,
+        "max": 12,
+        "char": "t",
+        "string": "gttfknrmtkbwt"
+    },
+    {
+        "line": "2-4 h: blhhhcgfgmh",
+        "min": 2,
+        "max": 4,
+        "char": "h",
+        "string": "blhhhcgfgmh"
+    },
+    {
+        "line": "5-7 v: vjczvqsjzvpjvplhtdvl",
+        "min": 5,
+        "max": 7,
+        "char": "v",
+        "string": "vjczvqsjzvpjvplhtdvl"
+    },
+    {
+        "line": "1-2 d: tdjdb",
+        "min": 1,
+        "max": 2,
+        "char": "d",
+        "string": "tdjdb"
+    },
+    {
+        "line": "5-6 m: mmzmzg",
+        "min": 5,
+        "max": 6,
+        "char": "m",
+        "string": "mmzmzg"
+    },
+    {
+        "line": "3-8 n: vwjfpdrn",
+        "min": 3,
+        "max": 8,
+        "char": "n",
+        "string": "vwjfpdrn"
+    },
+    {
+        "line": "2-9 c: ccccccccm",
+        "min": 2,
+        "max": 9,
+        "char": "c",
+        "string": "ccccccccm"
+    },
+    {
+        "line": "8-14 w: jxmpsswkhdpqrw",
+        "min": 8,
+        "max": 14,
+        "char": "w",
+        "string": "jxmpsswkhdpqrw"
+    },
+    {
+        "line": "5-6 q: qqrfcj",
+        "min": 5,
+        "max": 6,
+        "char": "q",
+        "string": "qqrfcj"
+    },
+    {
+        "line": "7-13 g: hgwgqgrkgwggxggmqq",
+        "min": 7,
+        "max": 13,
+        "char": "g",
+        "string": "hgwgqgrkgwggxggmqq"
+    },
+    {
+        "line": "3-5 h: hnhhvhpjsh",
+        "min": 3,
+        "max": 5,
+        "char": "h",
+        "string": "hnhhvhpjsh"
+    },
+    {
+        "line": "1-12 k: hkkmkkkpkkjk",
+        "min": 1,
+        "max": 12,
+        "char": "k",
+        "string": "hkkmkkkpkkjk"
+    },
+    {
+        "line": "5-6 m: mmcmfm",
+        "min": 5,
+        "max": 6,
+        "char": "m",
+        "string": "mmcmfm"
+    },
+    {
+        "line": "12-13 w: wwwwwwwwwwwxw",
+        "min": 12,
+        "max": 13,
+        "char": "w",
+        "string": "wwwwwwwwwwwxw"
+    },
+    {
+        "line": "8-10 q: qwbsdnqqlznvqjqqzqqv",
+        "min": 8,
+        "max": 10,
+        "char": "q",
+        "string": "qwbsdnqqlznvqjqqzqqv"
+    },
+    {
+        "line": "5-7 j: jgjfjwmqmtsszf",
+        "min": 5,
+        "max": 7,
+        "char": "j",
+        "string": "jgjfjwmqmtsszf"
+    },
+    {
+        "line": "4-5 c: cctcmc",
+        "min": 4,
+        "max": 5,
+        "char": "c",
+        "string": "cctcmc"
+    },
+    {
+        "line": "18-19 v: vvvvvvvvvvvcvgvvvfq",
+        "min": 18,
+        "max": 19,
+        "char": "v",
+        "string": "vvvvvvvvvvvcvgvvvfq"
+    },
+    {
+        "line": "1-8 j: qjbsjsjghj",
+        "min": 1,
+        "max": 8,
+        "char": "j",
+        "string": "qjbsjsjghj"
+    },
+    {
+        "line": "14-18 b: bbbbbbbbbbbbbbbbbg",
+        "min": 14,
+        "max": 18,
+        "char": "b",
+        "string": "bbbbbbbbbbbbbbbbbg"
+    },
+    {
+        "line": "9-15 w: wwwwwvwwhwwnwwcwvw",
+        "min": 9,
+        "max": 15,
+        "char": "w",
+        "string": "wwwwwvwwhwwnwwcwvw"
+    },
+    {
+        "line": "6-9 d: ckvddldddp",
+        "min": 6,
+        "max": 9,
+        "char": "d",
+        "string": "ckvddldddp"
+    },
+    {
+        "line": "3-12 k: qrnchpsjfcckrjx",
+        "min": 3,
+        "max": 12,
+        "char": "k",
+        "string": "qrnchpsjfcckrjx"
+    },
+    {
+        "line": "6-10 c: ccccctccccc",
+        "min": 6,
+        "max": 10,
+        "char": "c",
+        "string": "ccccctccccc"
+    },
+    {
+        "line": "5-6 z: hzzzzzsz",
+        "min": 5,
+        "max": 6,
+        "char": "z",
+        "string": "hzzzzzsz"
+    },
+    {
+        "line": "3-5 l: rvwlf",
+        "min": 3,
+        "max": 5,
+        "char": "l",
+        "string": "rvwlf"
+    },
+    {
+        "line": "18-20 r: rrrrrrrrrrrrrrrrbhrf",
+        "min": 18,
+        "max": 20,
+        "char": "r",
+        "string": "rrrrrrrrrrrrrrrrbhrf"
+    },
+    {
+        "line": "3-4 c: cccvcc",
+        "min": 3,
+        "max": 4,
+        "char": "c",
+        "string": "cccvcc"
+    },
+    {
+        "line": "11-17 s: jssssgszsbtsssslss",
+        "min": 11,
+        "max": 17,
+        "char": "s",
+        "string": "jssssgszsbtsssslss"
+    },
+    {
+        "line": "5-14 k: kkksxkkkxkxknkkkk",
+        "min": 5,
+        "max": 14,
+        "char": "k",
+        "string": "kkksxkkkxkxknkkkk"
+    },
+    {
+        "line": "1-3 q: qxgsmqxdgx",
+        "min": 1,
+        "max": 3,
+        "char": "q",
+        "string": "qxgsmqxdgx"
+    },
+    {
+        "line": "12-13 q: qqnbqqqqqqhbqqqq",
+        "min": 12,
+        "max": 13,
+        "char": "q",
+        "string": "qqnbqqqqqqhbqqqq"
+    },
+    {
+        "line": "7-13 s: ksrskrslsjfss",
+        "min": 7,
+        "max": 13,
+        "char": "s",
+        "string": "ksrskrslsjfss"
+    },
+    {
+        "line": "3-8 n: nfnnnndsnnnnxs",
+        "min": 3,
+        "max": 8,
+        "char": "n",
+        "string": "nfnnnndsnnnnxs"
+    },
+    {
+        "line": "4-8 g: lglggflgglgnf",
+        "min": 4,
+        "max": 8,
+        "char": "g",
+        "string": "lglggflgglgnf"
+    },
+    {
+        "line": "6-14 b: bbdkbbmbgbbrlb",
+        "min": 6,
+        "max": 14,
+        "char": "b",
+        "string": "bbdkbbmbgbbrlb"
+    },
+    {
+        "line": "3-7 w: wqwrdpw",
+        "min": 3,
+        "max": 7,
+        "char": "w",
+        "string": "wqwrdpw"
+    },
+    {
+        "line": "5-6 j: mdmjjj",
+        "min": 5,
+        "max": 6,
+        "char": "j",
+        "string": "mdmjjj"
+    },
+    {
+        "line": "13-16 k: kkkkkxkkkkkkqkdk",
+        "min": 13,
+        "max": 16,
+        "char": "k",
+        "string": "kkkkkxkkkkkkqkdk"
+    },
+    {
+        "line": "4-6 h: jmthbwhhfh",
+        "min": 4,
+        "max": 6,
+        "char": "h",
+        "string": "jmthbwhhfh"
+    },
+    {
+        "line": "16-19 p: ppppppppppppppppppv",
+        "min": 16,
+        "max": 19,
+        "char": "p",
+        "string": "ppppppppppppppppppv"
+    },
+    {
+        "line": "15-16 k: fkzkkkkkpkcrkhkklbkr",
+        "min": 15,
+        "max": 16,
+        "char": "k",
+        "string": "fkzkkkkkpkcrkhkklbkr"
+    },
+    {
+        "line": "10-11 k: sjkkgkhkqfk",
+        "min": 10,
+        "max": 11,
+        "char": "k",
+        "string": "sjkkgkhkqfk"
+    },
+    {
+        "line": "12-15 l: jjnlvmsppvlglllvljb",
+        "min": 12,
+        "max": 15,
+        "char": "l",
+        "string": "jjnlvmsppvlglllvljb"
+    },
+    {
+        "line": "3-13 l: llcdlfllqllqjl",
+        "min": 3,
+        "max": 13,
+        "char": "l",
+        "string": "llcdlfllqllqjl"
+    },
+    {
+        "line": "3-7 f: ggfgbvfqlrffxrflchx",
+        "min": 3,
+        "max": 7,
+        "char": "f",
+        "string": "ggfgbvfqlrffxrflchx"
+    },
+    {
+        "line": "13-14 d: ddddddddddcddqd",
+        "min": 13,
+        "max": 14,
+        "char": "d",
+        "string": "ddddddddddcddqd"
+    },
+    {
+        "line": "7-18 d: wdjdtdrdddfndkdddddd",
+        "min": 7,
+        "max": 18,
+        "char": "d",
+        "string": "wdjdtdrdddfndkdddddd"
+    },
+    {
+        "line": "8-10 v: rvvzvvvrvb",
+        "min": 8,
+        "max": 10,
+        "char": "v",
+        "string": "rvvzvvvrvb"
+    },
+    {
+        "line": "9-13 n: rlnnnnlnmbnqwlnmlnn",
+        "min": 9,
+        "max": 13,
+        "char": "n",
+        "string": "rlnnnnlnmbnqwlnmlnn"
+    },
+    {
+        "line": "14-15 h: hwrhcmhwbjhcbhc",
+        "min": 14,
+        "max": 15,
+        "char": "h",
+        "string": "hwrhcmhwbjhcbhc"
+    },
+    {
+        "line": "6-13 t: ttwtkrrtttdbtt",
+        "min": 6,
+        "max": 13,
+        "char": "t",
+        "string": "ttwtkrrtttdbtt"
+    },
+    {
+        "line": "3-5 w: wkwww",
+        "min": 3,
+        "max": 5,
+        "char": "w",
+        "string": "wkwww"
+    },
+    {
+        "line": "1-6 h: fghcxhwldmnb",
+        "min": 1,
+        "max": 6,
+        "char": "h",
+        "string": "fghcxhwldmnb"
+    },
+    {
+        "line": "1-9 f: ffffffffffffff",
+        "min": 1,
+        "max": 9,
+        "char": "f",
+        "string": "ffffffffffffff"
+    },
+    {
+        "line": "10-11 k: kkkkkkkkkkvkkkk",
+        "min": 10,
+        "max": 11,
+        "char": "k",
+        "string": "kkkkkkkkkkvkkkk"
+    },
+    {
+        "line": "2-3 s: sssw",
+        "min": 2,
+        "max": 3,
+        "char": "s",
+        "string": "sssw"
+    },
+    {
+        "line": "3-6 v: vzvqmdgrnkvcvz",
+        "min": 3,
+        "max": 6,
+        "char": "v",
+        "string": "vzvqmdgrnkvcvz"
+    },
+    {
+        "line": "3-4 j: jztw",
+        "min": 3,
+        "max": 4,
+        "char": "j",
+        "string": "jztw"
+    },
+    {
+        "line": "4-5 b: bbbbb",
+        "min": 4,
+        "max": 5,
+        "char": "b",
+        "string": "bbbbb"
+    },
+    {
+        "line": "1-9 l: wllmxlbxfllllcr",
+        "min": 1,
+        "max": 9,
+        "char": "l",
+        "string": "wllmxlbxfllllcr"
+    },
+    {
+        "line": "14-15 q: pqgqqngpjzhmmqq",
+        "min": 14,
+        "max": 15,
+        "char": "q",
+        "string": "pqgqqngpjzhmmqq"
+    },
+    {
+        "line": "4-7 n: jnznczd",
+        "min": 4,
+        "max": 7,
+        "char": "n",
+        "string": "jnznczd"
+    },
+    {
+        "line": "2-8 m: cmpmcmshpbmxb",
+        "min": 2,
+        "max": 8,
+        "char": "m",
+        "string": "cmpmcmshpbmxb"
+    },
+    {
+        "line": "6-9 r: rrrrrhrrr",
+        "min": 6,
+        "max": 9,
+        "char": "r",
+        "string": "rrrrrhrrr"
+    },
+    {
+        "line": "15-18 t: ttttktmtttttttvtttt",
+        "min": 15,
+        "max": 18,
+        "char": "t",
+        "string": "ttttktmtttttttvtttt"
+    },
+    {
+        "line": "1-5 s: sssxf",
+        "min": 1,
+        "max": 5,
+        "char": "s",
+        "string": "sssxf"
+    },
+    {
+        "line": "9-17 f: zfmkpffpwqfqffffffh",
+        "min": 9,
+        "max": 17,
+        "char": "f",
+        "string": "zfmkpffpwqfqffffffh"
+    },
+    {
+        "line": "16-19 d: dddddvddddbdddkdddpd",
+        "min": 16,
+        "max": 19,
+        "char": "d",
+        "string": "dddddvddddbdddkdddpd"
+    },
+    {
+        "line": "8-10 w: dwwrpwwwxx",
+        "min": 8,
+        "max": 10,
+        "char": "w",
+        "string": "dwwrpwwwxx"
+    },
+    {
+        "line": "6-11 w: wmdmzzcwwpkkwwwqwnww",
+        "min": 6,
+        "max": 11,
+        "char": "w",
+        "string": "wmdmzzcwwpkkwwwqwnww"
+    },
+    {
+        "line": "4-5 s: zssgf",
+        "min": 4,
+        "max": 5,
+        "char": "s",
+        "string": "zssgf"
+    },
+    {
+        "line": "2-8 v: vvpvvvvvqjv",
+        "min": 2,
+        "max": 8,
+        "char": "v",
+        "string": "vvpvvvvvqjv"
+    },
+    {
+        "line": "17-18 s: sssssssssssssvsssj",
+        "min": 17,
+        "max": 18,
+        "char": "s",
+        "string": "sssssssssssssvsssj"
+    },
+    {
+        "line": "1-3 d: tddd",
+        "min": 1,
+        "max": 3,
+        "char": "d",
+        "string": "tddd"
+    },
+    {
+        "line": "1-3 s: tssdbfvnlmtspmwlxxl",
+        "min": 1,
+        "max": 3,
+        "char": "s",
+        "string": "tssdbfvnlmtspmwlxxl"
+    },
+    {
+        "line": "6-11 k: kkkkkkkkkkkk",
+        "min": 6,
+        "max": 11,
+        "char": "k",
+        "string": "kkkkkkkkkkkk"
+    },
+    {
+        "line": "1-5 d: dddddgqddmdkdk",
+        "min": 1,
+        "max": 5,
+        "char": "d",
+        "string": "dddddgqddmdkdk"
+    },
+    {
+        "line": "6-11 l: nzgwkmqlpnl",
+        "min": 6,
+        "max": 11,
+        "char": "l",
+        "string": "nzgwkmqlpnl"
+    },
+    {
+        "line": "2-6 v: kvzlqgzr",
+        "min": 2,
+        "max": 6,
+        "char": "v",
+        "string": "kvzlqgzr"
+    },
+    {
+        "line": "1-2 f: xkqzbcrsdswpf",
+        "min": 1,
+        "max": 2,
+        "char": "f",
+        "string": "xkqzbcrsdswpf"
+    },
+    {
+        "line": "14-15 x: xxxxxxxxxxxxxwx",
+        "min": 14,
+        "max": 15,
+        "char": "x",
+        "string": "xxxxxxxxxxxxxwx"
+    },
+    {
+        "line": "16-17 j: jjjvhgjzjwjzjmjnj",
+        "min": 16,
+        "max": 17,
+        "char": "j",
+        "string": "jjjvhgjzjwjzjmjnj"
+    },
+    {
+        "line": "5-6 p: ppvppcjp",
+        "min": 5,
+        "max": 6,
+        "char": "p",
+        "string": "ppvppcjp"
+    },
+    {
+        "line": "1-4 w: lwpwwh",
+        "min": 1,
+        "max": 4,
+        "char": "w",
+        "string": "lwpwwh"
+    },
+    {
+        "line": "15-16 s: ssscsssssssssssd",
+        "min": 15,
+        "max": 16,
+        "char": "s",
+        "string": "ssscsssssssssssd"
+    },
+    {
+        "line": "3-7 b: rpqkbbbb",
+        "min": 3,
+        "max": 7,
+        "char": "b",
+        "string": "rpqkbbbb"
+    },
+    {
+        "line": "3-6 d: dddddf",
+        "min": 3,
+        "max": 6,
+        "char": "d",
+        "string": "dddddf"
+    },
+    {
+        "line": "10-15 k: kkckzkbpdfkkckl",
+        "min": 10,
+        "max": 15,
+        "char": "k",
+        "string": "kkckzkbpdfkkckl"
+    },
+    {
+        "line": "2-4 v: wvrvkgfpvvm",
+        "min": 2,
+        "max": 4,
+        "char": "v",
+        "string": "wvrvkgfpvvm"
+    },
+    {
+        "line": "15-18 v: vvvmvvvvvvvvvvgvvl",
+        "min": 15,
+        "max": 18,
+        "char": "v",
+        "string": "vvvmvvvvvvvvvvgvvl"
+    },
+    {
+        "line": "1-2 l: hdfll",
+        "min": 1,
+        "max": 2,
+        "char": "l",
+        "string": "hdfll"
+    },
+    {
+        "line": "1-4 v: wtvd",
+        "min": 1,
+        "max": 4,
+        "char": "v",
+        "string": "wtvd"
+    },
+    {
+        "line": "5-6 v: vvvvzmv",
+        "min": 5,
+        "max": 6,
+        "char": "v",
+        "string": "vvvvzmv"
+    },
+    {
+        "line": "6-8 l: llnllmlns",
+        "min": 6,
+        "max": 8,
+        "char": "l",
+        "string": "llnllmlns"
+    },
+    {
+        "line": "4-5 b: bbkblbsbnbbbbbbgbbbb",
+        "min": 4,
+        "max": 5,
+        "char": "b",
+        "string": "bbkblbsbnbbbbbbgbbbb"
+    },
+    {
+        "line": "5-6 d: xnjmdwddtfdbzdb",
+        "min": 5,
+        "max": 6,
+        "char": "d",
+        "string": "xnjmdwddtfdbzdb"
+    },
+    {
+        "line": "4-10 q: qqlqqqqqhq",
+        "min": 4,
+        "max": 10,
+        "char": "q",
+        "string": "qqlqqqqqhq"
+    },
+    {
+        "line": "4-9 c: rcvctlmccccc",
+        "min": 4,
+        "max": 9,
+        "char": "c",
+        "string": "rcvctlmccccc"
+    },
+    {
+        "line": "3-5 f: fffmnf",
+        "min": 3,
+        "max": 5,
+        "char": "f",
+        "string": "fffmnf"
+    },
+    {
+        "line": "9-14 n: xnznnnnnrnrdlzfsn",
+        "min": 9,
+        "max": 14,
+        "char": "n",
+        "string": "xnznnnnnrnrdlzfsn"
+    },
+    {
+        "line": "6-7 w: wdwkrvwww",
+        "min": 6,
+        "max": 7,
+        "char": "w",
+        "string": "wdwkrvwww"
+    },
+    {
+        "line": "10-15 v: vvvvvvvvvnvvvvz",
+        "min": 10,
+        "max": 15,
+        "char": "v",
+        "string": "vvvvvvvvvnvvvvz"
+    },
+    {
+        "line": "10-11 k: hnjzdwqkmskkx",
+        "min": 10,
+        "max": 11,
+        "char": "k",
+        "string": "hnjzdwqkmskkx"
+    },
+    {
+        "line": "4-8 c: ccqcqfrcnffbncfkc",
+        "min": 4,
+        "max": 8,
+        "char": "c",
+        "string": "ccqcqfrcnffbncfkc"
+    },
+    {
+        "line": "5-12 c: cclsmccgcccccxnvcckc",
+        "min": 5,
+        "max": 12,
+        "char": "c",
+        "string": "cclsmccgcccccxnvcckc"
+    },
+    {
+        "line": "5-6 z: cwhbkskzhnzztzzlhz",
+        "min": 5,
+        "max": 6,
+        "char": "z",
+        "string": "cwhbkskzhnzztzzlhz"
+    },
+    {
+        "line": "3-5 v: vkvjvv",
+        "min": 3,
+        "max": 5,
+        "char": "v",
+        "string": "vkvjvv"
+    },
+    {
+        "line": "3-4 j: jjjj",
+        "min": 3,
+        "max": 4,
+        "char": "j",
+        "string": "jjjj"
+    },
+    {
+        "line": "13-16 h: khxhhhrhkhhhhhhhwhhh",
+        "min": 13,
+        "max": 16,
+        "char": "h",
+        "string": "khxhhhrhkhhhhhhhwhhh"
+    },
+    {
+        "line": "1-3 f: jxdxffjfprs",
+        "min": 1,
+        "max": 3,
+        "char": "f",
+        "string": "jxdxffjfprs"
+    },
+    {
+        "line": "1-11 l: gllslllllxqlltlmh",
+        "min": 1,
+        "max": 11,
+        "char": "l",
+        "string": "gllslllllxqlltlmh"
+    },
+    {
+        "line": "8-11 g: kggggvnbkqgbfbgdsgwg",
+        "min": 8,
+        "max": 11,
+        "char": "g",
+        "string": "kggggvnbkqgbfbgdsgwg"
+    },
+    {
+        "line": "6-7 z: zzzxzfz",
+        "min": 6,
+        "max": 7,
+        "char": "z",
+        "string": "zzzxzfz"
+    },
+    {
+        "line": "3-7 x: xqxjjxxlb",
+        "min": 3,
+        "max": 7,
+        "char": "x",
+        "string": "xqxjjxxlb"
+    },
+    {
+        "line": "3-4 v: vtdv",
+        "min": 3,
+        "max": 4,
+        "char": "v",
+        "string": "vtdv"
+    },
+    {
+        "line": "7-10 w: wwwwwwwwnww",
+        "min": 7,
+        "max": 10,
+        "char": "w",
+        "string": "wwwwwwwwnww"
+    },
+    {
+        "line": "4-8 w: kgwwwwwwpx",
+        "min": 4,
+        "max": 8,
+        "char": "w",
+        "string": "kgwwwwwwpx"
+    },
+    {
+        "line": "3-5 g: ggggggs",
+        "min": 3,
+        "max": 5,
+        "char": "g",
+        "string": "ggggggs"
+    },
+    {
+        "line": "4-8 w: gwwwgzxb",
+        "min": 4,
+        "max": 8,
+        "char": "w",
+        "string": "gwwwgzxb"
+    },
+    {
+        "line": "9-10 t: ttttttttmp",
+        "min": 9,
+        "max": 10,
+        "char": "t",
+        "string": "ttttttttmp"
+    },
+    {
+        "line": "3-8 f: fpjdffffzflffmlxfq",
+        "min": 3,
+        "max": 8,
+        "char": "f",
+        "string": "fpjdffffzflffmlxfq"
+    },
+    {
+        "line": "11-13 g: gggtgggsggbbzggg",
+        "min": 11,
+        "max": 13,
+        "char": "g",
+        "string": "gggtgggsggbbzggg"
+    },
+    {
+        "line": "1-5 p: pptcp",
+        "min": 1,
+        "max": 5,
+        "char": "p",
+        "string": "pptcp"
+    },
+    {
+        "line": "13-14 c: cccccccccccccnc",
+        "min": 13,
+        "max": 14,
+        "char": "c",
+        "string": "cccccccccccccnc"
+    },
+    {
+        "line": "3-13 n: gbjnnqxnjprnhn",
+        "min": 3,
+        "max": 13,
+        "char": "n",
+        "string": "gbjnnqxnjprnhn"
+    },
+    {
+        "line": "5-6 x: qxxdknx",
+        "min": 5,
+        "max": 6,
+        "char": "x",
+        "string": "qxxdknx"
+    },
+    {
+        "line": "8-9 q: kmlfqxcvqqsqkvtm",
+        "min": 8,
+        "max": 9,
+        "char": "q",
+        "string": "kmlfqxcvqqsqkvtm"
+    },
+    {
+        "line": "3-6 n: xndnvn",
+        "min": 3,
+        "max": 6,
+        "char": "n",
+        "string": "xndnvn"
+    },
+    {
+        "line": "6-7 s: scxccsjssstw",
+        "min": 6,
+        "max": 7,
+        "char": "s",
+        "string": "scxccsjssstw"
+    },
+    {
+        "line": "14-18 d: dddddddttddddfpddbd",
+        "min": 14,
+        "max": 18,
+        "char": "d",
+        "string": "dddddddttddddfpddbd"
+    },
+    {
+        "line": "18-20 d: sgljbkdxhvckddpbjdld",
+        "min": 18,
+        "max": 20,
+        "char": "d",
+        "string": "sgljbkdxhvckddpbjdld"
+    },
+    {
+        "line": "5-8 m: dpmnmfmmpm",
+        "min": 5,
+        "max": 8,
+        "char": "m",
+        "string": "dpmnmfmmpm"
+    },
+    {
+        "line": "6-9 w: rfdwwwplw",
+        "min": 6,
+        "max": 9,
+        "char": "w",
+        "string": "rfdwwwplw"
+    },
+    {
+        "line": "5-7 b: vbdrcbbgqbspbbv",
+        "min": 5,
+        "max": 7,
+        "char": "b",
+        "string": "vbdrcbbgqbspbbv"
+    },
+    {
+        "line": "18-19 b: bbbjbbbbbbbbbbbbbsb",
+        "min": 18,
+        "max": 19,
+        "char": "b",
+        "string": "bbbjbbbbbbbbbbbbbsb"
+    },
+    {
+        "line": "11-12 x: xxxxxxxxxxzjx",
+        "min": 11,
+        "max": 12,
+        "char": "x",
+        "string": "xxxxxxxxxxzjx"
+    },
+    {
+        "line": "6-8 d: dqhgrddhddxdn",
+        "min": 6,
+        "max": 8,
+        "char": "d",
+        "string": "dqhgrddhddxdn"
+    },
+    {
+        "line": "6-16 p: dppbbzbpxxpphjppkpp",
+        "min": 6,
+        "max": 16,
+        "char": "p",
+        "string": "dppbbzbpxxpphjppkpp"
+    },
+    {
+        "line": "3-4 k: khkkt",
+        "min": 3,
+        "max": 4,
+        "char": "k",
+        "string": "khkkt"
+    },
+    {
+        "line": "1-2 x: xpwkvcxxqrn",
+        "min": 1,
+        "max": 2,
+        "char": "x",
+        "string": "xpwkvcxxqrn"
+    },
+    {
+        "line": "1-4 n: lnnngnnnns",
+        "min": 1,
+        "max": 4,
+        "char": "n",
+        "string": "lnnngnnnns"
+    },
+    {
+        "line": "1-11 c: cczvdcgcpcrccpzw",
+        "min": 1,
+        "max": 11,
+        "char": "c",
+        "string": "cczvdcgcpcrccpzw"
+    },
+    {
+        "line": "15-17 h: hhhhhhzhhhxhhhshhhh",
+        "min": 15,
+        "max": 17,
+        "char": "h",
+        "string": "hhhhhhzhhhxhhhshhhh"
+    },
+    {
+        "line": "7-8 t: fttttttt",
+        "min": 7,
+        "max": 8,
+        "char": "t",
+        "string": "fttttttt"
+    },
+    {
+        "line": "5-19 z: zczzczmczwzpzblzvxzz",
+        "min": 5,
+        "max": 19,
+        "char": "z",
+        "string": "zczzczmczwzpzblzvxzz"
+    },
+    {
+        "line": "4-8 l: zlpdjnsllkgkjglmnll",
+        "min": 4,
+        "max": 8,
+        "char": "l",
+        "string": "zlpdjnsllkgkjglmnll"
+    },
+    {
+        "line": "9-12 s: spwssjsssdstjssf",
+        "min": 9,
+        "max": 12,
+        "char": "s",
+        "string": "spwssjsssdstjssf"
+    },
+    {
+        "line": "8-10 h: hhhhfhhchh",
+        "min": 8,
+        "max": 10,
+        "char": "h",
+        "string": "hhhhfhhchh"
+    },
+    {
+        "line": "4-11 q: qqqqsqqqqqdqqqq",
+        "min": 4,
+        "max": 11,
+        "char": "q",
+        "string": "qqqqsqqqqqdqqqq"
+    },
+    {
+        "line": "14-15 w: wwwqwwwwwwwwwmjww",
+        "min": 14,
+        "max": 15,
+        "char": "w",
+        "string": "wwwqwwwwwwwwwmjww"
+    },
+    {
+        "line": "1-2 b: blcbhdqfsbmnq",
+        "min": 1,
+        "max": 2,
+        "char": "b",
+        "string": "blcbhdqfsbmnq"
+    },
+    {
+        "line": "1-5 m: mlrdhdkfjnknxlw",
+        "min": 1,
+        "max": 5,
+        "char": "m",
+        "string": "mlrdhdkfjnknxlw"
+    },
+    {
+        "line": "8-9 r: rrrrrrlhc",
+        "min": 8,
+        "max": 9,
+        "char": "r",
+        "string": "rrrrrrlhc"
+    },
+    {
+        "line": "9-13 d: ddddddddddddd",
+        "min": 9,
+        "max": 13,
+        "char": "d",
+        "string": "ddddddddddddd"
+    },
+    {
+        "line": "2-3 p: tpxpjgpcf",
+        "min": 2,
+        "max": 3,
+        "char": "p",
+        "string": "tpxpjgpcf"
+    },
+    {
+        "line": "1-2 f: ffff",
+        "min": 1,
+        "max": 2,
+        "char": "f",
+        "string": "ffff"
+    },
+    {
+        "line": "5-8 k: cdkkgbvfwkkskkw",
+        "min": 5,
+        "max": 8,
+        "char": "k",
+        "string": "cdkkgbvfwkkskkw"
+    },
+    {
+        "line": "2-3 r: rrrp",
+        "min": 2,
+        "max": 3,
+        "char": "r",
+        "string": "rrrp"
+    },
+    {
+        "line": "6-10 b: bbbbbdbbbbbbbbbbb",
+        "min": 6,
+        "max": 10,
+        "char": "b",
+        "string": "bbbbbdbbbbbbbbbbb"
+    },
+    {
+        "line": "10-12 t: tttttttttgdxt",
+        "min": 10,
+        "max": 12,
+        "char": "t",
+        "string": "tttttttttgdxt"
+    },
+    {
+        "line": "3-4 k: kjkrkmcmvr",
+        "min": 3,
+        "max": 4,
+        "char": "k",
+        "string": "kjkrkmcmvr"
+    },
+    {
+        "line": "8-10 b: zbbpcwgbsbwdz",
+        "min": 8,
+        "max": 10,
+        "char": "b",
+        "string": "zbbpcwgbsbwdz"
+    },
+    {
+        "line": "2-10 v: zqvdtnxvvcvlrvq",
+        "min": 2,
+        "max": 10,
+        "char": "v",
+        "string": "zqvdtnxvvcvlrvq"
+    },
+    {
+        "line": "3-4 b: bbbbb",
+        "min": 3,
+        "max": 4,
+        "char": "b",
+        "string": "bbbbb"
+    },
+    {
+        "line": "13-16 t: ttttmttttttttttwttt",
+        "min": 13,
+        "max": 16,
+        "char": "t",
+        "string": "ttttmttttttttttwttt"
+    },
+    {
+        "line": "16-17 n: nbnnnnnnnnnnnnnsgx",
+        "min": 16,
+        "max": 17,
+        "char": "n",
+        "string": "nbnnnnnnnnnnnnnsgx"
+    },
+    {
+        "line": "8-10 f: fmfsffhjcfzffcxw",
+        "min": 8,
+        "max": 10,
+        "char": "f",
+        "string": "fmfsffhjcfzffcxw"
+    },
+    {
+        "line": "7-13 m: mmvmrlmtzmbtmmxcsmm",
+        "min": 7,
+        "max": 13,
+        "char": "m",
+        "string": "mmvmrlmtzmbtmmxcsmm"
+    },
+    {
+        "line": "8-9 m: mmmmmmmmm",
+        "min": 8,
+        "max": 9,
+        "char": "m",
+        "string": "mmmmmmmmm"
+    },
+    {
+        "line": "1-7 n: nnnnwnpnnn",
+        "min": 1,
+        "max": 7,
+        "char": "n",
+        "string": "nnnnwnpnnn"
+    },
+    {
+        "line": "6-7 z: xzzzhpz",
+        "min": 6,
+        "max": 7,
+        "char": "z",
+        "string": "xzzzhpz"
+    },
+    {
+        "line": "3-4 n: bnnn",
+        "min": 3,
+        "max": 4,
+        "char": "n",
+        "string": "bnnn"
+    },
+    {
+        "line": "5-17 r: rrlrrbwzmkrrhrrrrhnr",
+        "min": 5,
+        "max": 17,
+        "char": "r",
+        "string": "rrlrrbwzmkrrhrrrrhnr"
+    },
+    {
+        "line": "9-13 t: ttntttttttttc",
+        "min": 9,
+        "max": 13,
+        "char": "t",
+        "string": "ttntttttttttc"
+    },
+    {
+        "line": "11-12 w: wwwwwwwwwcwsw",
+        "min": 11,
+        "max": 12,
+        "char": "w",
+        "string": "wwwwwwwwwcwsw"
+    },
+    {
+        "line": "1-10 j: ljhjjjdgjmj",
+        "min": 1,
+        "max": 10,
+        "char": "j",
+        "string": "ljhjjjdgjmj"
+    },
+    {
+        "line": "9-10 c: cccccccccx",
+        "min": 9,
+        "max": 10,
+        "char": "c",
+        "string": "cccccccccx"
+    },
+    {
+        "line": "3-5 h: hfhhh",
+        "min": 3,
+        "max": 5,
+        "char": "h",
+        "string": "hfhhh"
+    },
+    {
+        "line": "18-19 q: qqqqqqqqqqqqqlqqqbqq",
+        "min": 18,
+        "max": 19,
+        "char": "q",
+        "string": "qqqqqqqqqqqqqlqqqbqq"
+    },
+    {
+        "line": "1-4 b: pnjntrscpklzfcdl",
+        "min": 1,
+        "max": 4,
+        "char": "b",
+        "string": "pnjntrscpklzfcdl"
+    },
+    {
+        "line": "9-11 c: nrxscrjjcrzc",
+        "min": 9,
+        "max": 11,
+        "char": "c",
+        "string": "nrxscrjjcrzc"
+    },
+    {
+        "line": "9-12 q: nqpqqqqqqqqqqc",
+        "min": 9,
+        "max": 12,
+        "char": "q",
+        "string": "nqpqqqqqqqqqqc"
+    },
+    {
+        "line": "5-15 k: phmcmnhbckwkvwkb",
+        "min": 5,
+        "max": 15,
+        "char": "k",
+        "string": "phmcmnhbckwkvwkb"
+    },
+    {
+        "line": "2-4 t: dtrtmtb",
+        "min": 2,
+        "max": 4,
+        "char": "t",
+        "string": "dtrtmtb"
+    },
+    {
+        "line": "4-5 j: jjjjp",
+        "min": 4,
+        "max": 5,
+        "char": "j",
+        "string": "jjjjp"
+    },
+    {
+        "line": "8-9 m: mmhjmmrsqmm",
+        "min": 8,
+        "max": 9,
+        "char": "m",
+        "string": "mmhjmmrsqmm"
+    },
+    {
+        "line": "4-5 r: rrsrrrr",
+        "min": 4,
+        "max": 5,
+        "char": "r",
+        "string": "rrsrrrr"
+    },
+    {
+        "line": "6-10 w: wwwwwgwwww",
+        "min": 6,
+        "max": 10,
+        "char": "w",
+        "string": "wwwwwgwwww"
+    },
+    {
+        "line": "13-18 m: mgmmvmmmkmmmmmgpmfm",
+        "min": 13,
+        "max": 18,
+        "char": "m",
+        "string": "mgmmvmmmkmmmmmgpmfm"
+    },
+    {
+        "line": "10-11 d: ddxdldwdddddzdvrd",
+        "min": 10,
+        "max": 11,
+        "char": "d",
+        "string": "ddxdldwdddddzdvrd"
+    },
+    {
+        "line": "3-15 k: mxxgjklzzdbtgddzwrx",
+        "min": 3,
+        "max": 15,
+        "char": "k",
+        "string": "mxxgjklzzdbtgddzwrx"
+    },
+    {
+        "line": "9-11 q: qqqqfgqqqqwqqq",
+        "min": 9,
+        "max": 11,
+        "char": "q",
+        "string": "qqqqfgqqqqwqqq"
+    },
+    {
+        "line": "2-4 g: gdhthpp",
+        "min": 2,
+        "max": 4,
+        "char": "g",
+        "string": "gdhthpp"
+    },
+    {
+        "line": "1-11 r: srrrrrrrrrrr",
+        "min": 1,
+        "max": 11,
+        "char": "r",
+        "string": "srrrrrrrrrrr"
+    },
+    {
+        "line": "13-14 x: xxxxxxxxxxxxxs",
+        "min": 13,
+        "max": 14,
+        "char": "x",
+        "string": "xxxxxxxxxxxxxs"
+    },
+    {
+        "line": "6-17 f: ffvffkffffffffffjf",
+        "min": 6,
+        "max": 17,
+        "char": "f",
+        "string": "ffvffkffffffffffjf"
+    },
+    {
+        "line": "3-12 m: kmmmvbjlmmmf",
+        "min": 3,
+        "max": 12,
+        "char": "m",
+        "string": "kmmmvbjlmmmf"
+    },
+    {
+        "line": "9-20 n: nnnplnnnnnnnnnlpjntn",
+        "min": 9,
+        "max": 20,
+        "char": "n",
+        "string": "nnnplnnnnnnnnnlpjntn"
+    },
+    {
+        "line": "8-14 f: cjflffftftnffd",
+        "min": 8,
+        "max": 14,
+        "char": "f",
+        "string": "cjflffftftnffd"
+    },
+    {
+        "line": "2-7 b: kbzbbbbbbqb",
+        "min": 2,
+        "max": 7,
+        "char": "b",
+        "string": "kbzbbbbbbqb"
+    },
+    {
+        "line": "10-12 n: nnnnnnnnnnnk",
+        "min": 10,
+        "max": 12,
+        "char": "n",
+        "string": "nnnnnnnnnnnk"
+    },
+    {
+        "line": "7-8 z: zxzdzzzclnjzj",
+        "min": 7,
+        "max": 8,
+        "char": "z",
+        "string": "zxzdzzzclnjzj"
+    },
+    {
+        "line": "3-11 l: llldlsmltklz",
+        "min": 3,
+        "max": 11,
+        "char": "l",
+        "string": "llldlsmltklz"
+    },
+    {
+        "line": "2-5 s: swwxrpscmmhzsgrvnl",
+        "min": 2,
+        "max": 5,
+        "char": "s",
+        "string": "swwxrpscmmhzsgrvnl"
+    },
+    {
+        "line": "1-13 p: kzwjlpfhpskzpsrp",
+        "min": 1,
+        "max": 13,
+        "char": "p",
+        "string": "kzwjlpfhpskzpsrp"
+    },
+    {
+        "line": "13-15 f: gffffdffkhfffvffjffb",
+        "min": 13,
+        "max": 15,
+        "char": "f",
+        "string": "gffffdffkhfffvffjffb"
+    },
+    {
+        "line": "6-7 d: drddddd",
+        "min": 6,
+        "max": 7,
+        "char": "d",
+        "string": "drddddd"
+    },
+    {
+        "line": "4-6 p: pppphpj",
+        "min": 4,
+        "max": 6,
+        "char": "p",
+        "string": "pppphpj"
+    },
+    {
+        "line": "12-18 k: jkkkkkkktkzkkxkkfgkn",
+        "min": 12,
+        "max": 18,
+        "char": "k",
+        "string": "jkkkkkkktkzkkxkkfgkn"
+    },
+    {
+        "line": "8-9 j: jjjjjjjpc",
+        "min": 8,
+        "max": 9,
+        "char": "j",
+        "string": "jjjjjjjpc"
+    },
+    {
+        "line": "5-7 d: ddlkxdmndmdkkhwd",
+        "min": 5,
+        "max": 7,
+        "char": "d",
+        "string": "ddlkxdmndmdkkhwd"
+    },
+    {
+        "line": "10-11 l: vlllhllfhll",
+        "min": 10,
+        "max": 11,
+        "char": "l",
+        "string": "vlllhllfhll"
+    },
+    {
+        "line": "5-6 b: bbjbvbqrjb",
+        "min": 5,
+        "max": 6,
+        "char": "b",
+        "string": "bbjbvbqrjb"
+    },
+    {
+        "line": "17-18 d: dxdnddddddlddddddl",
+        "min": 17,
+        "max": 18,
+        "char": "d",
+        "string": "dxdnddddddlddddddl"
+    },
+    {
+        "line": "15-18 d: dddxddwwddddddnddd",
+        "min": 15,
+        "max": 18,
+        "char": "d",
+        "string": "dddxddwwddddddnddd"
+    },
+    {
+        "line": "1-12 x: sxxxxxxxxxxtxxxxx",
+        "min": 1,
+        "max": 12,
+        "char": "x",
+        "string": "sxxxxxxxxxxtxxxxx"
+    },
+    {
+        "line": "3-9 k: rfkrnjxxkkm",
+        "min": 3,
+        "max": 9,
+        "char": "k",
+        "string": "rfkrnjxxkkm"
+    },
+    {
+        "line": "9-12 n: xnnnnnnggnnln",
+        "min": 9,
+        "max": 12,
+        "char": "n",
+        "string": "xnnnnnnggnnln"
+    },
+    {
+        "line": "5-8 w: nwpwqwwwlfwmj",
+        "min": 5,
+        "max": 8,
+        "char": "w",
+        "string": "nwpwqwwwlfwmj"
+    },
+    {
+        "line": "3-11 p: sgprfdprpmqpwvps",
+        "min": 3,
+        "max": 11,
+        "char": "p",
+        "string": "sgprfdprpmqpwvps"
+    },
+    {
+        "line": "5-6 x: sxxhxxkx",
+        "min": 5,
+        "max": 6,
+        "char": "x",
+        "string": "sxxhxxkx"
+    },
+    {
+        "line": "11-14 h: hhhhhchhhhhhhh",
+        "min": 11,
+        "max": 14,
+        "char": "h",
+        "string": "hhhhhchhhhhhhh"
+    },
+    {
+        "line": "2-3 p: kxpllmpvfxq",
+        "min": 2,
+        "max": 3,
+        "char": "p",
+        "string": "kxpllmpvfxq"
+    },
+    {
+        "line": "4-14 k: qkpfkskhglhkzkck",
+        "min": 4,
+        "max": 14,
+        "char": "k",
+        "string": "qkpfkskhglhkzkck"
+    },
+    {
+        "line": "3-6 q: jsqbdqq",
+        "min": 3,
+        "max": 6,
+        "char": "q",
+        "string": "jsqbdqq"
+    },
+    {
+        "line": "8-9 n: nnnxnnnnpnnn",
+        "min": 8,
+        "max": 9,
+        "char": "n",
+        "string": "nnnxnnnnpnnn"
+    },
+    {
+        "line": "12-14 h: stshhhwxhcvhhg",
+        "min": 12,
+        "max": 14,
+        "char": "h",
+        "string": "stshhhwxhcvhhg"
+    },
+    {
+        "line": "5-8 j: jjjjjjjj",
+        "min": 5,
+        "max": 8,
+        "char": "j",
+        "string": "jjjjjjjj"
+    },
+    {
+        "line": "10-14 h: hqlqhxzmdnfzhhhwxnwj",
+        "min": 10,
+        "max": 14,
+        "char": "h",
+        "string": "hqlqhxzmdnfzhhhwxnwj"
+    },
+    {
+        "line": "1-8 r: qmlvfqvrbgfrrmppkzwv",
+        "min": 1,
+        "max": 8,
+        "char": "r",
+        "string": "qmlvfqvrbgfrrmppkzwv"
+    },
+    {
+        "line": "3-9 v: hhvnpvvvdvktgbcrr",
+        "min": 3,
+        "max": 9,
+        "char": "v",
+        "string": "hhvnpvvvdvktgbcrr"
+    },
+    {
+        "line": "6-8 q: qqqqqqqp",
+        "min": 6,
+        "max": 8,
+        "char": "q",
+        "string": "qqqqqqqp"
+    },
+    {
+        "line": "9-12 l: lxklkwplllvlmljlfll",
+        "min": 9,
+        "max": 12,
+        "char": "l",
+        "string": "lxklkwplllvlmljlfll"
+    },
+    {
+        "line": "11-14 w: wwwwwwwwwwwwwpw",
+        "min": 11,
+        "max": 14,
+        "char": "w",
+        "string": "wwwwwwwwwwwwwpw"
+    },
+    {
+        "line": "6-7 c: cccqrccc",
+        "min": 6,
+        "max": 7,
+        "char": "c",
+        "string": "cccqrccc"
+    },
+    {
+        "line": "3-6 d: wddgdzd",
+        "min": 3,
+        "max": 6,
+        "char": "d",
+        "string": "wddgdzd"
+    },
+    {
+        "line": "3-8 d: dddppddddddddfd",
+        "min": 3,
+        "max": 8,
+        "char": "d",
+        "string": "dddppddddddddfd"
+    },
+    {
+        "line": "5-9 g: jlxgxgkggpg",
+        "min": 5,
+        "max": 9,
+        "char": "g",
+        "string": "jlxgxgkggpg"
+    },
+    {
+        "line": "6-14 b: jbljlvjtqkbbzlpvxmf",
+        "min": 6,
+        "max": 14,
+        "char": "b",
+        "string": "jbljlvjtqkbbzlpvxmf"
+    },
+    {
+        "line": "2-3 x: nnbx",
+        "min": 2,
+        "max": 3,
+        "char": "x",
+        "string": "nnbx"
+    },
+    {
+        "line": "6-7 q: qqqqqbfqqqq",
+        "min": 6,
+        "max": 7,
+        "char": "q",
+        "string": "qqqqqbfqqqq"
+    },
+    {
+        "line": "2-3 n: xnmnnfb",
+        "min": 2,
+        "max": 3,
+        "char": "n",
+        "string": "xnmnnfb"
+    },
+    {
+        "line": "13-14 p: pppppppppppphr",
+        "min": 13,
+        "max": 14,
+        "char": "p",
+        "string": "pppppppppppphr"
+    },
+    {
+        "line": "8-11 k: kkkkkkkkkkk",
+        "min": 8,
+        "max": 11,
+        "char": "k",
+        "string": "kkkkkkkkkkk"
+    },
+    {
+        "line": "4-5 r: rrrsr",
+        "min": 4,
+        "max": 5,
+        "char": "r",
+        "string": "rrrsr"
+    },
+    {
+        "line": "13-19 t: ttttttvtttmttttttbt",
+        "min": 13,
+        "max": 19,
+        "char": "t",
+        "string": "ttttttvtttmttttttbt"
+    },
+    {
+        "line": "8-9 r: rrrlrrrwr",
+        "min": 8,
+        "max": 9,
+        "char": "r",
+        "string": "rrrlrrrwr"
+    },
+    {
+        "line": "3-6 c: flfhnccccwvtmqz",
+        "min": 3,
+        "max": 6,
+        "char": "c",
+        "string": "flfhnccccwvtmqz"
+    },
+    {
+        "line": "8-12 s: xshssnnsskcsjsssgs",
+        "min": 8,
+        "max": 12,
+        "char": "s",
+        "string": "xshssnnsskcsjsssgs"
+    },
+    {
+        "line": "1-4 r: vzkpphvtwrxgr",
+        "min": 1,
+        "max": 4,
+        "char": "r",
+        "string": "vzkpphvtwrxgr"
+    },
+    {
+        "line": "11-13 c: ccccccccccqcc",
+        "min": 11,
+        "max": 13,
+        "char": "c",
+        "string": "ccccccccccqcc"
+    },
+    {
+        "line": "3-5 v: fvvjvzgt",
+        "min": 3,
+        "max": 5,
+        "char": "v",
+        "string": "fvvjvzgt"
+    },
+    {
+        "line": "1-4 j: sjjnsjjj",
+        "min": 1,
+        "max": 4,
+        "char": "j",
+        "string": "sjjnsjjj"
+    },
+    {
+        "line": "3-6 s: sxsqnfbmssbfnjs",
+        "min": 3,
+        "max": 6,
+        "char": "s",
+        "string": "sxsqnfbmssbfnjs"
+    },
+    {
+        "line": "12-15 p: pnppppppppppkpp",
+        "min": 12,
+        "max": 15,
+        "char": "p",
+        "string": "pnppppppppppkpp"
+    },
+    {
+        "line": "9-13 l: wlldrllklllllkl",
+        "min": 9,
+        "max": 13,
+        "char": "l",
+        "string": "wlldrllklllllkl"
+    },
+    {
+        "line": "2-3 s: swsrljzrns",
+        "min": 2,
+        "max": 3,
+        "char": "s",
+        "string": "swsrljzrns"
+    },
+    {
+        "line": "8-9 b: bbbbbbrwb",
+        "min": 8,
+        "max": 9,
+        "char": "b",
+        "string": "bbbbbbrwb"
+    },
+    {
+        "line": "16-20 f: ffffffhffffffffsffff",
+        "min": 16,
+        "max": 20,
+        "char": "f",
+        "string": "ffffffhffffffffsffff"
+    },
+    {
+        "line": "5-9 w: wwwwswwwww",
+        "min": 5,
+        "max": 9,
+        "char": "w",
+        "string": "wwwwswwwww"
+    },
+    {
+        "line": "7-9 q: qbqqqtqqkd",
+        "min": 7,
+        "max": 9,
+        "char": "q",
+        "string": "qbqqqtqqkd"
+    },
+    {
+        "line": "6-8 z: zzzzzzzz",
+        "min": 6,
+        "max": 8,
+        "char": "z",
+        "string": "zzzzzzzz"
+    },
+    {
+        "line": "5-10 m: zlmmnmrgkmtm",
+        "min": 5,
+        "max": 10,
+        "char": "m",
+        "string": "zlmmnmrgkmtm"
+    },
+    {
+        "line": "1-5 n: mnnflnn",
+        "min": 1,
+        "max": 5,
+        "char": "n",
+        "string": "mnnflnn"
+    },
+    {
+        "line": "4-8 c: cpccbgccc",
+        "min": 4,
+        "max": 8,
+        "char": "c",
+        "string": "cpccbgccc"
+    },
+    {
+        "line": "9-12 j: jjjjjjjjwjjjj",
+        "min": 9,
+        "max": 12,
+        "char": "j",
+        "string": "jjjjjjjjwjjjj"
+    },
+    {
+        "line": "3-4 s: tdhzbsqsb",
+        "min": 3,
+        "max": 4,
+        "char": "s",
+        "string": "tdhzbsqsb"
+    },
+    {
+        "line": "15-19 t: tthrqtttttttmtttttx",
+        "min": 15,
+        "max": 19,
+        "char": "t",
+        "string": "tthrqtttttttmtttttx"
+    },
+    {
+        "line": "11-12 b: bbbbbbbbmbjcb",
+        "min": 11,
+        "max": 12,
+        "char": "b",
+        "string": "bbbbbbbbmbjcb"
+    },
+    {
+        "line": "1-13 f: ffqfkfftfjrwfkfm",
+        "min": 1,
+        "max": 13,
+        "char": "f",
+        "string": "ffqfkfftfjrwfkfm"
+    },
+    {
+        "line": "14-15 v: vvvvvvmvvvvvvdv",
+        "min": 14,
+        "max": 15,
+        "char": "v",
+        "string": "vvvvvvmvvvvvvdv"
+    },
+    {
+        "line": "4-6 h: qvchkhhccnxwpvhhhb",
+        "min": 4,
+        "max": 6,
+        "char": "h",
+        "string": "qvchkhhccnxwpvhhhb"
+    },
+    {
+        "line": "2-8 k: kskkkxkkkkk",
+        "min": 2,
+        "max": 8,
+        "char": "k",
+        "string": "kskkkxkkkkk"
+    },
+    {
+        "line": "3-10 j: jjjbjjjjjpd",
+        "min": 3,
+        "max": 10,
+        "char": "j",
+        "string": "jjjbjjjjjpd"
+    },
+    {
+        "line": "4-13 z: svkjzrfrtftftqhhc",
+        "min": 4,
+        "max": 13,
+        "char": "z",
+        "string": "svkjzrfrtftftqhhc"
+    },
+    {
+        "line": "18-19 p: pppppppppppmpppppmd",
+        "min": 18,
+        "max": 19,
+        "char": "p",
+        "string": "pppppppppppmpppppmd"
+    },
+    {
+        "line": "5-14 b: bbbbcbbntbbfbpbd",
+        "min": 5,
+        "max": 14,
+        "char": "b",
+        "string": "bbbbcbbntbbfbpbd"
+    },
+    {
+        "line": "5-7 q: qqqqqqq",
+        "min": 5,
+        "max": 7,
+        "char": "q",
+        "string": "qqqqqqq"
+    },
+    {
+        "line": "2-17 j: jbjjjjjjjjjjjjjjcj",
+        "min": 2,
+        "max": 17,
+        "char": "j",
+        "string": "jbjjjjjjjjjjjjjjcj"
+    },
+    {
+        "line": "1-5 z: zvztgv",
+        "min": 1,
+        "max": 5,
+        "char": "z",
+        "string": "zvztgv"
+    },
+    {
+        "line": "4-5 k: kkkrkp",
+        "min": 4,
+        "max": 5,
+        "char": "k",
+        "string": "kkkrkp"
+    },
+    {
+        "line": "3-5 c: kgmccc",
+        "min": 3,
+        "max": 5,
+        "char": "c",
+        "string": "kgmccc"
+    },
+    {
+        "line": "2-8 h: rhhhnhhxh",
+        "min": 2,
+        "max": 8,
+        "char": "h",
+        "string": "rhhhnhhxh"
+    },
+    {
+        "line": "1-18 s: sbrblpcrxsvdsjrnwwws",
+        "min": 1,
+        "max": 18,
+        "char": "s",
+        "string": "sbrblpcrxsvdsjrnwwws"
+    },
+    {
+        "line": "6-10 q: qbqqzqqhbdq",
+        "min": 6,
+        "max": 10,
+        "char": "q",
+        "string": "qbqqzqqhbdq"
+    },
+    {
+        "line": "1-3 d: sdwgdn",
+        "min": 1,
+        "max": 3,
+        "char": "d",
+        "string": "sdwgdn"
+    },
+    {
+        "line": "3-6 s: ssssssss",
+        "min": 3,
+        "max": 6,
+        "char": "s",
+        "string": "ssssssss"
+    },
+    {
+        "line": "2-13 f: ffffrrfffflbvffff",
+        "min": 2,
+        "max": 13,
+        "char": "f",
+        "string": "ffffrrfffflbvffff"
+    },
+    {
+        "line": "5-7 w: pxwnfnwzj",
+        "min": 5,
+        "max": 7,
+        "char": "w",
+        "string": "pxwnfnwzj"
+    },
+    {
+        "line": "17-18 z: zzzzzzzzzzzzzzzzbzzz",
+        "min": 17,
+        "max": 18,
+        "char": "z",
+        "string": "zzzzzzzzzzzzzzzzbzzz"
+    },
+    {
+        "line": "7-8 p: pplplpbfppp",
+        "min": 7,
+        "max": 8,
+        "char": "p",
+        "string": "pplplpbfppp"
+    },
+    {
+        "line": "1-8 x: xxkzdxzx",
+        "min": 1,
+        "max": 8,
+        "char": "x",
+        "string": "xxkzdxzx"
+    },
+    {
+        "line": "3-4 p: jppxp",
+        "min": 3,
+        "max": 4,
+        "char": "p",
+        "string": "jppxp"
+    },
+    {
+        "line": "4-6 j: jthbzjmqjzj",
+        "min": 4,
+        "max": 6,
+        "char": "j",
+        "string": "jthbzjmqjzj"
+    },
+    {
+        "line": "1-12 x: xxxxxxxxxxxxxx",
+        "min": 1,
+        "max": 12,
+        "char": "x",
+        "string": "xxxxxxxxxxxxxx"
+    },
+    {
+        "line": "8-19 g: ggggggqgwmgggwggmlg",
+        "min": 8,
+        "max": 19,
+        "char": "g",
+        "string": "ggggggqgwmgggwggmlg"
+    },
+    {
+        "line": "5-9 b: bxbbbgwbbnxbhbbb",
+        "min": 5,
+        "max": 9,
+        "char": "b",
+        "string": "bxbbbgwbbnxbhbbb"
+    },
+    {
+        "line": "5-6 n: nnnnnd",
+        "min": 5,
+        "max": 6,
+        "char": "n",
+        "string": "nnnnnd"
+    },
+    {
+        "line": "5-9 b: bwjxbbwbb",
+        "min": 5,
+        "max": 9,
+        "char": "b",
+        "string": "bwjxbbwbb"
+    },
+    {
+        "line": "4-14 d: ddlddkdddddddl",
+        "min": 4,
+        "max": 14,
+        "char": "d",
+        "string": "ddlddkdddddddl"
+    },
+    {
+        "line": "2-3 t: jqjt",
+        "min": 2,
+        "max": 3,
+        "char": "t",
+        "string": "jqjt"
+    },
+    {
+        "line": "2-3 h: shhp",
+        "min": 2,
+        "max": 3,
+        "char": "h",
+        "string": "shhp"
+    },
+    {
+        "line": "12-14 p: ppppppxppjfmpdzppp",
+        "min": 12,
+        "max": 14,
+        "char": "p",
+        "string": "ppppppxppjfmpdzppp"
+    },
+    {
+        "line": "7-10 f: lnffvfcfzffffft",
+        "min": 7,
+        "max": 10,
+        "char": "f",
+        "string": "lnffvfcfzffffft"
+    },
+    {
+        "line": "3-8 s: lqhrstvsr",
+        "min": 3,
+        "max": 8,
+        "char": "s",
+        "string": "lqhrstvsr"
+    },
+    {
+        "line": "15-16 v: vvvvvvmvvvvvvvvvv",
+        "min": 15,
+        "max": 16,
+        "char": "v",
+        "string": "vvvvvvmvvvvvvvvvv"
+    },
+    {
+        "line": "2-4 h: hhhh",
+        "min": 2,
+        "max": 4,
+        "char": "h",
+        "string": "hhhh"
+    },
+    {
+        "line": "5-8 g: wmtxgdgg",
+        "min": 5,
+        "max": 8,
+        "char": "g",
+        "string": "wmtxgdgg"
+    },
+    {
+        "line": "3-6 r: rfrrrg",
+        "min": 3,
+        "max": 6,
+        "char": "r",
+        "string": "rfrrrg"
+    },
+    {
+        "line": "8-12 q: qqqqqqqqqqqq",
+        "min": 8,
+        "max": 12,
+        "char": "q",
+        "string": "qqqqqqqqqqqq"
+    },
+    {
+        "line": "4-9 z: zzzzzpzzw",
+        "min": 4,
+        "max": 9,
+        "char": "z",
+        "string": "zzzzzpzzw"
+    },
+    {
+        "line": "14-19 g: gdggggggggbggtcggggg",
+        "min": 14,
+        "max": 19,
+        "char": "g",
+        "string": "gdggggggggbggtcggggg"
+    },
+    {
+        "line": "5-11 n: nnnktnnlndgnnnnn",
+        "min": 5,
+        "max": 11,
+        "char": "n",
+        "string": "nnnktnnlndgnnnnn"
+    },
+    {
+        "line": "5-6 n: nznnnqn",
+        "min": 5,
+        "max": 6,
+        "char": "n",
+        "string": "nznnnqn"
+    },
+    {
+        "line": "3-4 q: qqlq",
+        "min": 3,
+        "max": 4,
+        "char": "q",
+        "string": "qqlq"
+    },
+    {
+        "line": "12-13 g: ggggggggggggg",
+        "min": 12,
+        "max": 13,
+        "char": "g",
+        "string": "ggggggggggggg"
+    },
+    {
+        "line": "16-18 w: wwwwwwwwwwwwmwwxwv",
+        "min": 16,
+        "max": 18,
+        "char": "w",
+        "string": "wwwwwwwwwwwwmwwxwv"
+    },
+    {
+        "line": "6-10 b: bbbbbmblbg",
+        "min": 6,
+        "max": 10,
+        "char": "b",
+        "string": "bbbbbmblbg"
+    },
+    {
+        "line": "8-13 m: mwmmmcrmmmtsm",
+        "min": 8,
+        "max": 13,
+        "char": "m",
+        "string": "mwmmmcrmmmtsm"
+    },
+    {
+        "line": "12-17 h: rhhhhnhhhhhlhstkhhh",
+        "min": 12,
+        "max": 17,
+        "char": "h",
+        "string": "rhhhhnhhhhhlhstkhhh"
+    },
+    {
+        "line": "9-10 q: qqqqqzqqgt",
+        "min": 9,
+        "max": 10,
+        "char": "q",
+        "string": "qqqqqzqqgt"
+    },
+    {
+        "line": "2-6 v: vvfvpgw",
+        "min": 2,
+        "max": 6,
+        "char": "v",
+        "string": "vvfvpgw"
+    },
+    {
+        "line": "8-13 w: mwlxrpbwwwgcwwgn",
+        "min": 8,
+        "max": 13,
+        "char": "w",
+        "string": "mwlxrpbwwwgcwwgn"
+    },
+    {
+        "line": "1-10 m: mmmmmmmrmxm",
+        "min": 1,
+        "max": 10,
+        "char": "m",
+        "string": "mmmmmmmrmxm"
+    },
+    {
+        "line": "6-8 f: fgvfgfftfffq",
+        "min": 6,
+        "max": 8,
+        "char": "f",
+        "string": "fgvfgfftfffq"
+    },
+    {
+        "line": "2-6 g: gcggrg",
+        "min": 2,
+        "max": 6,
+        "char": "g",
+        "string": "gcggrg"
+    },
+    {
+        "line": "1-6 x: zxxxvxx",
+        "min": 1,
+        "max": 6,
+        "char": "x",
+        "string": "zxxxvxx"
+    },
+    {
+        "line": "1-3 t: txtt",
+        "min": 1,
+        "max": 3,
+        "char": "t",
+        "string": "txtt"
+    },
+    {
+        "line": "1-2 q: qdqn",
+        "min": 1,
+        "max": 2,
+        "char": "q",
+        "string": "qdqn"
+    },
+    {
+        "line": "6-7 j: jjjjtjjj",
+        "min": 6,
+        "max": 7,
+        "char": "j",
+        "string": "jjjjtjjj"
+    },
+    {
+        "line": "13-14 r: rrwrrwrrrrrrrfrr",
+        "min": 13,
+        "max": 14,
+        "char": "r",
+        "string": "rrwrrwrrrrrrrfrr"
+    },
+    {
+        "line": "3-4 j: jjjpj",
+        "min": 3,
+        "max": 4,
+        "char": "j",
+        "string": "jjjpj"
+    },
+    {
+        "line": "12-13 v: vvvvvvvvvvvvv",
+        "min": 12,
+        "max": 13,
+        "char": "v",
+        "string": "vvvvvvvvvvvvv"
+    },
+    {
+        "line": "4-5 t: tttcw",
+        "min": 4,
+        "max": 5,
+        "char": "t",
+        "string": "tttcw"
+    },
+    {
+        "line": "4-6 s: sssnxs",
+        "min": 4,
+        "max": 6,
+        "char": "s",
+        "string": "sssnxs"
+    },
+    {
+        "line": "9-11 x: xxxxxxxxcvx",
+        "min": 9,
+        "max": 11,
+        "char": "x",
+        "string": "xxxxxxxxcvx"
+    },
+    {
+        "line": "1-4 d: lpddds",
+        "min": 1,
+        "max": 4,
+        "char": "d",
+        "string": "lpddds"
+    },
+    {
+        "line": "1-9 t: hbtttttthtt",
+        "min": 1,
+        "max": 9,
+        "char": "t",
+        "string": "hbtttttthtt"
+    },
+    {
+        "line": "1-4 z: bsjzz",
+        "min": 1,
+        "max": 4,
+        "char": "z",
+        "string": "bsjzz"
+    },
+    {
+        "line": "2-5 t: xrtptqt",
+        "min": 2,
+        "max": 5,
+        "char": "t",
+        "string": "xrtptqt"
+    },
+    {
+        "line": "1-3 l: lllll",
+        "min": 1,
+        "max": 3,
+        "char": "l",
+        "string": "lllll"
+    },
+    {
+        "line": "7-8 m: mmmmmmmj",
+        "min": 7,
+        "max": 8,
+        "char": "m",
+        "string": "mmmmmmmj"
+    },
+    {
+        "line": "11-13 f: ftffqffffgfszfff",
+        "min": 11,
+        "max": 13,
+        "char": "f",
+        "string": "ftffqffffgfszfff"
+    },
+    {
+        "line": "4-5 j: ljjbjbjjjj",
+        "min": 4,
+        "max": 5,
+        "char": "j",
+        "string": "ljjbjbjjjj"
+    },
+    {
+        "line": "3-11 n: nhnnnnnnjnnnnnbmnqnn",
+        "min": 3,
+        "max": 11,
+        "char": "n",
+        "string": "nhnnnnnnjnnnnnbmnqnn"
+    },
+    {
+        "line": "3-12 s: swgnlssszsqsvfjwxt",
+        "min": 3,
+        "max": 12,
+        "char": "s",
+        "string": "swgnlssszsqsvfjwxt"
+    },
+    {
+        "line": "8-9 f: ffffffffn",
+        "min": 8,
+        "max": 9,
+        "char": "f",
+        "string": "ffffffffn"
+    },
+    {
+        "line": "3-4 t: gtmt",
+        "min": 3,
+        "max": 4,
+        "char": "t",
+        "string": "gtmt"
+    },
+    {
+        "line": "8-9 s: spsmnswlt",
+        "min": 8,
+        "max": 9,
+        "char": "s",
+        "string": "spsmnswlt"
+    },
+    {
+        "line": "7-8 j: jjjnmjjjdjjjqj",
+        "min": 7,
+        "max": 8,
+        "char": "j",
+        "string": "jjjnmjjjdjjjqj"
+    },
+    {
+        "line": "9-10 j: jnjljjjjfgj",
+        "min": 9,
+        "max": 10,
+        "char": "j",
+        "string": "jnjljjjjfgj"
+    },
+    {
+        "line": "3-7 x: xrxlbhcxmswlpx",
+        "min": 3,
+        "max": 7,
+        "char": "x",
+        "string": "xrxlbhcxmswlpx"
+    },
+    {
+        "line": "9-11 x: xxwrxxbxxxn",
+        "min": 9,
+        "max": 11,
+        "char": "x",
+        "string": "xxwrxxbxxxn"
+    },
+    {
+        "line": "16-17 d: dbddddmtddddddddddd",
+        "min": 16,
+        "max": 17,
+        "char": "d",
+        "string": "dbddddmtddddddddddd"
+    },
+    {
+        "line": "5-17 n: cnnnhnnnjnnvnsnnwgnn",
+        "min": 5,
+        "max": 17,
+        "char": "n",
+        "string": "cnnnhnnnjnnvnsnnwgnn"
+    },
+    {
+        "line": "7-8 m: mmmmmmmm",
+        "min": 7,
+        "max": 8,
+        "char": "m",
+        "string": "mmmmmmmm"
+    },
+    {
+        "line": "11-12 l: lllklllltltmllllll",
+        "min": 11,
+        "max": 12,
+        "char": "l",
+        "string": "lllklllltltmllllll"
+    },
+    {
+        "line": "4-5 r: rrrrr",
+        "min": 4,
+        "max": 5,
+        "char": "r",
+        "string": "rrrrr"
+    },
+    {
+        "line": "7-8 j: jjjjjjqqjj",
+        "min": 7,
+        "max": 8,
+        "char": "j",
+        "string": "jjjjjjqqjj"
+    },
+    {
+        "line": "10-12 g: gggtkggggggkggg",
+        "min": 10,
+        "max": 12,
+        "char": "g",
+        "string": "gggtkggggggkggg"
+    },
+    {
+        "line": "1-5 h: fxxphhz",
+        "min": 1,
+        "max": 5,
+        "char": "h",
+        "string": "fxxphhz"
+    },
+    {
+        "line": "1-3 q: jlnq",
+        "min": 1,
+        "max": 3,
+        "char": "q",
+        "string": "jlnq"
+    },
+    {
+        "line": "4-5 s: fssss",
+        "min": 4,
+        "max": 5,
+        "char": "s",
+        "string": "fssss"
+    },
+    {
+        "line": "16-17 c: cccccccccccccccqc",
+        "min": 16,
+        "max": 17,
+        "char": "c",
+        "string": "cccccccccccccccqc"
+    },
+    {
+        "line": "12-19 q: qqqqqqqqqqpqqqqqqqpq",
+        "min": 12,
+        "max": 19,
+        "char": "q",
+        "string": "qqqqqqqqqqpqqqqqqqpq"
+    },
+    {
+        "line": "7-13 s: gmzvssjsfssjssssx",
+        "min": 7,
+        "max": 13,
+        "char": "s",
+        "string": "gmzvssjsfssjssssx"
+    },
+    {
+        "line": "3-4 s: ssxs",
+        "min": 3,
+        "max": 4,
+        "char": "s",
+        "string": "ssxs"
+    },
+    {
+        "line": "15-19 d: ddddddddddtddddddqdd",
+        "min": 15,
+        "max": 19,
+        "char": "d",
+        "string": "ddddddddddtddddddqdd"
+    },
+    {
+        "line": "5-7 l: lllxqlkl",
+        "min": 5,
+        "max": 7,
+        "char": "l",
+        "string": "lllxqlkl"
+    },
+    {
+        "line": "10-11 x: xmxxxxxxxfk",
+        "min": 10,
+        "max": 11,
+        "char": "x",
+        "string": "xmxxxxxxxfk"
+    },
+    {
+        "line": "9-14 q: qqqqqtqczqqqqq",
+        "min": 9,
+        "max": 14,
+        "char": "q",
+        "string": "qqqqqtqczqqqqq"
+    },
+    {
+        "line": "4-8 w: zwmllrwmwmwqwww",
+        "min": 4,
+        "max": 8,
+        "char": "w",
+        "string": "zwmllrwmwmwqwww"
+    },
+    {
+        "line": "1-4 l: llllz",
+        "min": 1,
+        "max": 4,
+        "char": "l",
+        "string": "llllz"
+    },
+    {
+        "line": "14-15 j: jjjjjjjjjjcjjjrjj",
+        "min": 14,
+        "max": 15,
+        "char": "j",
+        "string": "jjjjjjjjjjcjjjrjj"
+    },
+    {
+        "line": "10-13 x: xxxxxxxxhbxlzx",
+        "min": 10,
+        "max": 13,
+        "char": "x",
+        "string": "xxxxxxxxhbxlzx"
+    },
+    {
+        "line": "6-7 f: fffffdj",
+        "min": 6,
+        "max": 7,
+        "char": "f",
+        "string": "fffffdj"
+    },
+    {
+        "line": "9-10 w: msdcwqzwhj",
+        "min": 9,
+        "max": 10,
+        "char": "w",
+        "string": "msdcwqzwhj"
+    },
+    {
+        "line": "4-8 c: ccccxccccckcccccccc",
+        "min": 4,
+        "max": 8,
+        "char": "c",
+        "string": "ccccxccccckcccccccc"
+    },
+    {
+        "line": "5-11 r: xffrjsvrjzfrrcrpfbr",
+        "min": 5,
+        "max": 11,
+        "char": "r",
+        "string": "xffrjsvrjzfrrcrpfbr"
+    },
+    {
+        "line": "2-5 z: zzfwrn",
+        "min": 2,
+        "max": 5,
+        "char": "z",
+        "string": "zzfwrn"
+    },
+    {
+        "line": "10-13 r: rrrrrfrrrhrrh",
+        "min": 10,
+        "max": 13,
+        "char": "r",
+        "string": "rrrrrfrrrhrrh"
+    },
+    {
+        "line": "5-10 d: dddddddddddd",
+        "min": 5,
+        "max": 10,
+        "char": "d",
+        "string": "dddddddddddd"
+    },
+    {
+        "line": "4-5 z: zzzfs",
+        "min": 4,
+        "max": 5,
+        "char": "z",
+        "string": "zzzfs"
+    },
+    {
+        "line": "9-12 t: ttttttttlttt",
+        "min": 9,
+        "max": 12,
+        "char": "t",
+        "string": "ttttttttlttt"
+    },
+    {
+        "line": "3-4 r: lpjrr",
+        "min": 3,
+        "max": 4,
+        "char": "r",
+        "string": "lpjrr"
+    },
+    {
+        "line": "2-9 v: kkxvvxkvgjtsjtvv",
+        "min": 2,
+        "max": 9,
+        "char": "v",
+        "string": "kkxvvxkvgjtsjtvv"
+    },
+    {
+        "line": "1-8 v: lprgtpvvv",
+        "min": 1,
+        "max": 8,
+        "char": "v",
+        "string": "lprgtpvvv"
+    },
+    {
+        "line": "4-6 h: hhhnhfb",
+        "min": 4,
+        "max": 6,
+        "char": "h",
+        "string": "hhhnhfb"
+    },
+    {
+        "line": "2-4 h: hhpxh",
+        "min": 2,
+        "max": 4,
+        "char": "h",
+        "string": "hhpxh"
+    },
+    {
+        "line": "4-9 d: bhqdmddrd",
+        "min": 4,
+        "max": 9,
+        "char": "d",
+        "string": "bhqdmddrd"
+    },
+    {
+        "line": "2-5 w: wwgtwt",
+        "min": 2,
+        "max": 5,
+        "char": "w",
+        "string": "wwgtwt"
+    },
+    {
+        "line": "6-7 z: zzzzzszz",
+        "min": 6,
+        "max": 7,
+        "char": "z",
+        "string": "zzzzzszz"
+    },
+    {
+        "line": "4-5 z: zzzzm",
+        "min": 4,
+        "max": 5,
+        "char": "z",
+        "string": "zzzzm"
+    },
+    {
+        "line": "12-14 d: mddrddddddrdddddd",
+        "min": 12,
+        "max": 14,
+        "char": "d",
+        "string": "mddrddddddrdddddd"
+    },
+    {
+        "line": "9-11 h: sdhzhvhhhkhhhb",
+        "min": 9,
+        "max": 11,
+        "char": "h",
+        "string": "sdhzhvhhhkhhhb"
+    },
+    {
+        "line": "2-3 b: zbbtbbqhm",
+        "min": 2,
+        "max": 3,
+        "char": "b",
+        "string": "zbbtbbqhm"
+    },
+    {
+        "line": "4-11 b: bnbqqbjbbzp",
+        "min": 4,
+        "max": 11,
+        "char": "b",
+        "string": "bnbqqbjbbzp"
+    },
+    {
+        "line": "9-10 n: nnnnnmnntj",
+        "min": 9,
+        "max": 10,
+        "char": "n",
+        "string": "nnnnnmnntj"
+    },
+    {
+        "line": "11-17 w: wwvwwwwwwwrtwwwwdw",
+        "min": 11,
+        "max": 17,
+        "char": "w",
+        "string": "wwvwwwwwwwrtwwwwdw"
+    },
+    {
+        "line": "1-4 t: svbtbxvptfp",
+        "min": 1,
+        "max": 4,
+        "char": "t",
+        "string": "svbtbxvptfp"
+    },
+    {
+        "line": "4-5 w: vsbjw",
+        "min": 4,
+        "max": 5,
+        "char": "w",
+        "string": "vsbjw"
+    },
+    {
+        "line": "2-7 m: mmpmmmg",
+        "min": 2,
+        "max": 7,
+        "char": "m",
+        "string": "mmpmmmg"
+    },
+    {
+        "line": "11-12 j: jjjjjjjfjjxjjm",
+        "min": 11,
+        "max": 12,
+        "char": "j",
+        "string": "jjjjjjjfjjxjjm"
+    },
+    {
+        "line": "6-8 r: rrzrcmrvrr",
+        "min": 6,
+        "max": 8,
+        "char": "r",
+        "string": "rrzrcmrvrr"
+    },
+    {
+        "line": "1-3 n: nqxnzhq",
+        "min": 1,
+        "max": 3,
+        "char": "n",
+        "string": "nqxnzhq"
+    },
+    {
+        "line": "3-4 n: nnnkj",
+        "min": 3,
+        "max": 4,
+        "char": "n",
+        "string": "nnnkj"
+    },
+    {
+        "line": "3-5 f: kfffhfthfhf",
+        "min": 3,
+        "max": 5,
+        "char": "f",
+        "string": "kfffhfthfhf"
+    },
+    {
+        "line": "3-5 m: gwszmmm",
+        "min": 3,
+        "max": 5,
+        "char": "m",
+        "string": "gwszmmm"
+    },
+    {
+        "line": "1-7 c: tbscmrfbmccrqxzdb",
+        "min": 1,
+        "max": 7,
+        "char": "c",
+        "string": "tbscmrfbmccrqxzdb"
+    },
+    {
+        "line": "13-14 l: lllllllllllllnll",
+        "min": 13,
+        "max": 14,
+        "char": "l",
+        "string": "lllllllllllllnll"
+    },
+    {
+        "line": "4-10 k: pfbwsjvfxkxhfzktdj",
+        "min": 4,
+        "max": 10,
+        "char": "k",
+        "string": "pfbwsjvfxkxhfzktdj"
+    },
+    {
+        "line": "2-6 f: ffffbf",
+        "min": 2,
+        "max": 6,
+        "char": "f",
+        "string": "ffffbf"
+    },
+    {
+        "line": "4-7 w: wwgrwnpbswnz",
+        "min": 4,
+        "max": 7,
+        "char": "w",
+        "string": "wwgrwnpbswnz"
+    },
+    {
+        "line": "5-6 z: zzszzzz",
+        "min": 5,
+        "max": 6,
+        "char": "z",
+        "string": "zzszzzz"
+    },
+    {
+        "line": "8-13 p: zpppppgbjpppcpp",
+        "min": 8,
+        "max": 13,
+        "char": "p",
+        "string": "zpppppgbjpppcpp"
+    },
+    {
+        "line": "6-7 q: gpqqvwtkxwqjtqdqq",
+        "min": 6,
+        "max": 7,
+        "char": "q",
+        "string": "gpqqvwtkxwqjtqdqq"
+    },
+    {
+        "line": "14-15 n: nnnnnnnnnnnnnkn",
+        "min": 14,
+        "max": 15,
+        "char": "n",
+        "string": "nnnnnnnnnnnnnkn"
+    },
+    {
+        "line": "3-6 q: rkqmjqg",
+        "min": 3,
+        "max": 6,
+        "char": "q",
+        "string": "rkqmjqg"
+    },
+    {
+        "line": "5-6 t: ttttkq",
+        "min": 5,
+        "max": 6,
+        "char": "t",
+        "string": "ttttkq"
+    },
+    {
+        "line": "4-6 r: srrsrrprr",
+        "min": 4,
+        "max": 6,
+        "char": "r",
+        "string": "srrsrrprr"
+    },
+    {
+        "line": "1-8 v: kvvvvvvxvvvvvvvb",
+        "min": 1,
+        "max": 8,
+        "char": "v",
+        "string": "kvvvvvvxvvvvvvvb"
+    },
+    {
+        "line": "5-6 z: zzzzzz",
+        "min": 5,
+        "max": 6,
+        "char": "z",
+        "string": "zzzzzz"
+    },
+    {
+        "line": "3-4 c: cccccbpsp",
+        "min": 3,
+        "max": 4,
+        "char": "c",
+        "string": "cccccbpsp"
+    },
+    {
+        "line": "3-12 c: stvxclcbrcjjcgcxlwtq",
+        "min": 3,
+        "max": 12,
+        "char": "c",
+        "string": "stvxclcbrcjjcgcxlwtq"
+    },
+    {
+        "line": "13-14 r: nrrrrxrfrrrrrzd",
+        "min": 13,
+        "max": 14,
+        "char": "r",
+        "string": "nrrrrxrfrrrrrzd"
+    },
+    {
+        "line": "2-3 r: rmfwl",
+        "min": 2,
+        "max": 3,
+        "char": "r",
+        "string": "rmfwl"
+    },
+    {
+        "line": "1-4 q: qqhq",
+        "min": 1,
+        "max": 4,
+        "char": "q",
+        "string": "qqhq"
+    },
+    {
+        "line": "11-13 z: zzzmvzzzzzkzzzzzzzz",
+        "min": 11,
+        "max": 13,
+        "char": "z",
+        "string": "zzzmvzzzzzkzzzzzzzz"
+    },
+    {
+        "line": "4-8 h: hhhxhhhh",
+        "min": 4,
+        "max": 8,
+        "char": "h",
+        "string": "hhhxhhhh"
+    },
+    {
+        "line": "2-3 b: fpbhn",
+        "min": 2,
+        "max": 3,
+        "char": "b",
+        "string": "fpbhn"
+    },
+    {
+        "line": "7-10 v: vgwvvvgvvvvvj",
+        "min": 7,
+        "max": 10,
+        "char": "v",
+        "string": "vgwvvvgvvvvvj"
+    },
+    {
+        "line": "1-4 m: msmk",
+        "min": 1,
+        "max": 4,
+        "char": "m",
+        "string": "msmk"
+    },
+    {
+        "line": "11-12 d: ddddddddfddddd",
+        "min": 11,
+        "max": 12,
+        "char": "d",
+        "string": "ddddddddfddddd"
+    },
+    {
+        "line": "15-16 k: kkkkkkkkkkkkkkkk",
+        "min": 15,
+        "max": 16,
+        "char": "k",
+        "string": "kkkkkkkkkkkkkkkk"
+    },
+    {
+        "line": "8-14 m: mmmmmmmwmvmbmmv",
+        "min": 8,
+        "max": 14,
+        "char": "m",
+        "string": "mmmmmmmwmvmbmmv"
+    },
+    {
+        "line": "10-12 m: mmmmmmmmmlmm",
+        "min": 10,
+        "max": 12,
+        "char": "m",
+        "string": "mmmmmmmmmlmm"
+    },
+    {
+        "line": "2-7 w: cgbmsww",
+        "min": 2,
+        "max": 7,
+        "char": "w",
+        "string": "cgbmsww"
+    },
+    {
+        "line": "6-8 t: ttktttgw",
+        "min": 6,
+        "max": 8,
+        "char": "t",
+        "string": "ttktttgw"
+    },
+    {
+        "line": "4-14 z: vsvmwzvhfzxkfzz",
+        "min": 4,
+        "max": 14,
+        "char": "z",
+        "string": "vsvmwzvhfzxkfzz"
+    },
+    {
+        "line": "2-4 f: ccgmfhrls",
+        "min": 2,
+        "max": 4,
+        "char": "f",
+        "string": "ccgmfhrls"
+    },
+    {
+        "line": "10-11 k: kfxlsfdkbdkmjptqhh",
+        "min": 10,
+        "max": 11,
+        "char": "k",
+        "string": "kfxlsfdkbdkmjptqhh"
+    },
+    {
+        "line": "6-16 x: nbxxdxwsxxsqmfxqrxmk",
+        "min": 6,
+        "max": 16,
+        "char": "x",
+        "string": "nbxxdxwsxxsqmfxqrxmk"
+    },
+    {
+        "line": "9-17 j: vjjjjvpjgfjxffjxjd",
+        "min": 9,
+        "max": 17,
+        "char": "j",
+        "string": "vjjjjvpjgfjxffjxjd"
+    },
+    {
+        "line": "6-9 g: gvpxggggqgg",
+        "min": 6,
+        "max": 9,
+        "char": "g",
+        "string": "gvpxggggqgg"
+    },
+    {
+        "line": "6-8 t: tttttztft",
+        "min": 6,
+        "max": 8,
+        "char": "t",
+        "string": "tttttztft"
+    },
+    {
+        "line": "5-11 q: prklqxrfxjdvgsq",
+        "min": 5,
+        "max": 11,
+        "char": "q",
+        "string": "prklqxrfxjdvgsq"
+    },
+    {
+        "line": "8-9 k: kkkkkjknk",
+        "min": 8,
+        "max": 9,
+        "char": "k",
+        "string": "kkkkkjknk"
+    },
+    {
+        "line": "2-4 c: chccl",
+        "min": 2,
+        "max": 4,
+        "char": "c",
+        "string": "chccl"
+    },
+    {
+        "line": "2-3 x: fxpr",
+        "min": 2,
+        "max": 3,
+        "char": "x",
+        "string": "fxpr"
+    },
+    {
+        "line": "1-4 v: rzvvpvxp",
+        "min": 1,
+        "max": 4,
+        "char": "v",
+        "string": "rzvvpvxp"
+    },
+    {
+        "line": "3-5 j: cjfrjldr",
+        "min": 3,
+        "max": 5,
+        "char": "j",
+        "string": "cjfrjldr"
+    },
+    {
+        "line": "3-8 t: zbptntzp",
+        "min": 3,
+        "max": 8,
+        "char": "t",
+        "string": "zbptntzp"
+    },
+    {
+        "line": "2-7 c: cccqkcfzgcffssgrcsc",
+        "min": 2,
+        "max": 7,
+        "char": "c",
+        "string": "cccqkcfzgcffssgrcsc"
+    },
+    {
+        "line": "5-6 q: qqqqdr",
+        "min": 5,
+        "max": 6,
+        "char": "q",
+        "string": "qqqqdr"
+    },
+    {
+        "line": "2-6 h: hxfhhghhhk",
+        "min": 2,
+        "max": 6,
+        "char": "h",
+        "string": "hxfhhghhhk"
+    },
+    {
+        "line": "1-3 v: lvnhv",
+        "min": 1,
+        "max": 3,
+        "char": "v",
+        "string": "lvnhv"
+    },
+    {
+        "line": "5-6 r: prrrrw",
+        "min": 5,
+        "max": 6,
+        "char": "r",
+        "string": "prrrrw"
+    },
+    {
+        "line": "11-18 z: zfzzzzzzzzdgzzzmzzxz",
+        "min": 11,
+        "max": 18,
+        "char": "z",
+        "string": "zfzzzzzzzzdgzzzmzzxz"
+    },
+    {
+        "line": "5-10 x: kxrncghxldxffzbx",
+        "min": 5,
+        "max": 10,
+        "char": "x",
+        "string": "kxrncghxldxffzbx"
+    },
+    {
+        "line": "17-19 k: kkkkkkkkkkkkkkkkjkkk",
+        "min": 17,
+        "max": 19,
+        "char": "k",
+        "string": "kkkkkkkkkkkkkkkkjkkk"
+    },
+    {
+        "line": "7-9 h: hhmhhhdhh",
+        "min": 7,
+        "max": 9,
+        "char": "h",
+        "string": "hhmhhhdhh"
+    },
+    {
+        "line": "15-16 x: xxxxxxxxxxxxxxxx",
+        "min": 15,
+        "max": 16,
+        "char": "x",
+        "string": "xxxxxxxxxxxxxxxx"
+    },
+    {
+        "line": "4-5 c: nzjchwccgbd",
+        "min": 4,
+        "max": 5,
+        "char": "c",
+        "string": "nzjchwccgbd"
+    },
+    {
+        "line": "5-6 r: rrrrjrrrr",
+        "min": 5,
+        "max": 6,
+        "char": "r",
+        "string": "rrrrjrrrr"
+    },
+    {
+        "line": "9-13 c: ccccccjclcccc",
+        "min": 9,
+        "max": 13,
+        "char": "c",
+        "string": "ccccccjclcccc"
+    },
+    {
+        "line": "6-7 z: zjzfzzzszvzz",
+        "min": 6,
+        "max": 7,
+        "char": "z",
+        "string": "zjzfzzzszvzz"
+    },
+    {
+        "line": "6-7 l: llllljll",
+        "min": 6,
+        "max": 7,
+        "char": "l",
+        "string": "llllljll"
+    },
+    {
+        "line": "6-8 m: mmmmmmms",
+        "min": 6,
+        "max": 8,
+        "char": "m",
+        "string": "mmmmmmms"
+    },
+    {
+        "line": "3-5 p: pppppp",
+        "min": 3,
+        "max": 5,
+        "char": "p",
+        "string": "pppppp"
+    },
+    {
+        "line": "14-15 m: mmmmmmmmlmmmnwmm",
+        "min": 14,
+        "max": 15,
+        "char": "m",
+        "string": "mmmmmmmmlmmmnwmm"
+    },
+    {
+        "line": "6-11 b: bbbbbbbbbwb",
+        "min": 6,
+        "max": 11,
+        "char": "b",
+        "string": "bbbbbbbbbwb"
+    },
+    {
+        "line": "8-10 g: ggjgbgpgggggggdcgb",
+        "min": 8,
+        "max": 10,
+        "char": "g",
+        "string": "ggjgbgpgggggggdcgb"
+    },
+    {
+        "line": "9-16 b: bbbbbbcbkbbbbbnbbbbb",
+        "min": 9,
+        "max": 16,
+        "char": "b",
+        "string": "bbbbbbcbkbbbbbnbbbbb"
+    },
+    {
+        "line": "10-11 f: dfbffxfnfksfffrw",
+        "min": 10,
+        "max": 11,
+        "char": "f",
+        "string": "dfbffxfnfksfffrw"
+    },
+    {
+        "line": "10-11 h: hhhhhhhhhhq",
+        "min": 10,
+        "max": 11,
+        "char": "h",
+        "string": "hhhhhhhhhhq"
+    },
+    {
+        "line": "5-17 v: vvvvjvvwvvvvvvvvvvvv",
+        "min": 5,
+        "max": 17,
+        "char": "v",
+        "string": "vvvvjvvwvvvvvvvvvvvv"
+    },
+    {
+        "line": "2-14 x: xgxxxvfcxxxxtbgxkx",
+        "min": 2,
+        "max": 14,
+        "char": "x",
+        "string": "xgxxxvfcxxxxtbgxkx"
+    },
+    {
+        "line": "1-3 k: kkjbm",
+        "min": 1,
+        "max": 3,
+        "char": "k",
+        "string": "kkjbm"
+    },
+    {
+        "line": "18-19 d: dddddddddddddddddxx",
+        "min": 18,
+        "max": 19,
+        "char": "d",
+        "string": "dddddddddddddddddxx"
+    },
+    {
+        "line": "5-9 h: vhjzhkjbhl",
+        "min": 5,
+        "max": 9,
+        "char": "h",
+        "string": "vhjzhkjbhl"
+    },
+    {
+        "line": "1-4 k: kskk",
+        "min": 1,
+        "max": 4,
+        "char": "k",
+        "string": "kskk"
+    },
+    {
+        "line": "7-12 l: lcljknlllclvlldrlpls",
+        "min": 7,
+        "max": 12,
+        "char": "l",
+        "string": "lcljknlllclvlldrlpls"
+    },
+    {
+        "line": "14-15 w: wwwwhwwwwrhwwvq",
+        "min": 14,
+        "max": 15,
+        "char": "w",
+        "string": "wwwwhwwwwrhwwvq"
+    },
+    {
+        "line": "5-6 t: wtvdtmqfbnt",
+        "min": 5,
+        "max": 6,
+        "char": "t",
+        "string": "wtvdtmqfbnt"
+    },
+    {
+        "line": "1-4 v: vhvvvv",
+        "min": 1,
+        "max": 4,
+        "char": "v",
+        "string": "vhvvvv"
+    },
+    {
+        "line": "8-10 n: nnqcnzrnndnjnnnkn",
+        "min": 8,
+        "max": 10,
+        "char": "n",
+        "string": "nnqcnzrnndnjnnnkn"
+    },
+    {
+        "line": "6-8 h: hshhqhhdhhfcj",
+        "min": 6,
+        "max": 8,
+        "char": "h",
+        "string": "hshhqhhdhhfcj"
+    },
+    {
+        "line": "10-15 j: jjtjjjjjjfzjjjj",
+        "min": 10,
+        "max": 15,
+        "char": "j",
+        "string": "jjtjjjjjjfzjjjj"
+    },
+    {
+        "line": "3-5 m: mmdmm",
+        "min": 3,
+        "max": 5,
+        "char": "m",
+        "string": "mmdmm"
+    },
+    {
+        "line": "10-11 n: nnnnnnnnnng",
+        "min": 10,
+        "max": 11,
+        "char": "n",
+        "string": "nnnnnnnnnng"
+    },
+    {
+        "line": "6-8 p: fzpgppzpthqcthhst",
+        "min": 6,
+        "max": 8,
+        "char": "p",
+        "string": "fzpgppzpthqcthhst"
+    },
+    {
+        "line": "1-7 p: hzxthvpfnpnrzfpvmv",
+        "min": 1,
+        "max": 7,
+        "char": "p",
+        "string": "hzxthvpfnpnrzfpvmv"
+    },
+    {
+        "line": "10-11 l: llllvswlllll",
+        "min": 10,
+        "max": 11,
+        "char": "l",
+        "string": "llllvswlllll"
+    },
+    {
+        "line": "1-2 q: jffqfzd",
+        "min": 1,
+        "max": 2,
+        "char": "q",
+        "string": "jffqfzd"
+    },
+    {
+        "line": "1-3 x: xljxfw",
+        "min": 1,
+        "max": 3,
+        "char": "x",
+        "string": "xljxfw"
+    },
+    {
+        "line": "5-6 z: fmzzgl",
+        "min": 5,
+        "max": 6,
+        "char": "z",
+        "string": "fmzzgl"
+    },
+    {
+        "line": "2-6 v: vbvvvzv",
+        "min": 2,
+        "max": 6,
+        "char": "v",
+        "string": "vbvvvzv"
+    },
+    {
+        "line": "8-10 r: rrrrrrrnsr",
+        "min": 8,
+        "max": 10,
+        "char": "r",
+        "string": "rrrrrrrnsr"
+    },
+    {
+        "line": "1-3 c: crctc",
+        "min": 1,
+        "max": 3,
+        "char": "c",
+        "string": "crctc"
+    },
+    {
+        "line": "8-10 m: mcmdgxhmhnmmwmzmmg",
+        "min": 8,
+        "max": 10,
+        "char": "m",
+        "string": "mcmdgxhmhnmmwmzmmg"
+    },
+    {
+        "line": "4-5 h: hdhhhh",
+        "min": 4,
+        "max": 5,
+        "char": "h",
+        "string": "hdhhhh"
+    },
+    {
+        "line": "1-2 z: vzzm",
+        "min": 1,
+        "max": 2,
+        "char": "z",
+        "string": "vzzm"
+    },
+    {
+        "line": "5-10 z: zzzvnzzzpz",
+        "min": 5,
+        "max": 10,
+        "char": "z",
+        "string": "zzzvnzzzpz"
+    },
+    {
+        "line": "2-5 f: gfffdff",
+        "min": 2,
+        "max": 5,
+        "char": "f",
+        "string": "gfffdff"
+    },
+    {
+        "line": "1-4 g: lgfgg",
+        "min": 1,
+        "max": 4,
+        "char": "g",
+        "string": "lgfgg"
+    },
+    {
+        "line": "2-4 w: swww",
+        "min": 2,
+        "max": 4,
+        "char": "w",
+        "string": "swww"
+    },
+    {
+        "line": "2-6 c: ccscdz",
+        "min": 2,
+        "max": 6,
+        "char": "c",
+        "string": "ccscdz"
+    },
+    {
+        "line": "6-7 b: bbsbbbjb",
+        "min": 6,
+        "max": 7,
+        "char": "b",
+        "string": "bbsbbbjb"
+    },
+    {
+        "line": "11-16 s: bssrqsslssbcssjrxjk",
+        "min": 11,
+        "max": 16,
+        "char": "s",
+        "string": "bssrqsslssbcssjrxjk"
+    },
+    {
+        "line": "5-8 c: ccjmcqcglj",
+        "min": 5,
+        "max": 8,
+        "char": "c",
+        "string": "ccjmcqcglj"
+    },
+    {
+        "line": "13-18 l: lllllmvllllxlllllz",
+        "min": 13,
+        "max": 18,
+        "char": "l",
+        "string": "lllllmvllllxlllllz"
+    },
+    {
+        "line": "6-7 l: lllllll",
+        "min": 6,
+        "max": 7,
+        "char": "l",
+        "string": "lllllll"
+    },
+    {
+        "line": "5-6 v: vvvtvvvv",
+        "min": 5,
+        "max": 6,
+        "char": "v",
+        "string": "vvvtvvvv"
+    },
+    {
+        "line": "4-11 v: vvmvwhvvrkd",
+        "min": 4,
+        "max": 11,
+        "char": "v",
+        "string": "vvmvwhvvrkd"
+    },
+    {
+        "line": "4-7 n: knlwnmnnnn",
+        "min": 4,
+        "max": 7,
+        "char": "n",
+        "string": "knlwnmnnnn"
+    },
+    {
+        "line": "5-6 p: cqmfxppptplkpp",
+        "min": 5,
+        "max": 6,
+        "char": "p",
+        "string": "cqmfxppptplkpp"
+    },
+    {
+        "line": "7-11 c: clccnptxmcncrccjcc",
+        "min": 7,
+        "max": 11,
+        "char": "c",
+        "string": "clccnptxmcncrccjcc"
+    },
+    {
+        "line": "1-7 h: fhhfhhzd",
+        "min": 1,
+        "max": 7,
+        "char": "h",
+        "string": "fhhfhhzd"
+    },
+    {
+        "line": "1-11 l: llflllllllllll",
+        "min": 1,
+        "max": 11,
+        "char": "l",
+        "string": "llflllllllllll"
+    },
+    {
+        "line": "3-4 g: gmgl",
+        "min": 3,
+        "max": 4,
+        "char": "g",
+        "string": "gmgl"
+    },
+    {
+        "line": "15-16 j: wjjjjjjjjjjjjlhjcjj",
+        "min": 15,
+        "max": 16,
+        "char": "j",
+        "string": "wjjjjjjjjjjjjlhjcjj"
+    },
+    {
+        "line": "2-8 v: gtvvmgvvbtf",
+        "min": 2,
+        "max": 8,
+        "char": "v",
+        "string": "gtvvmgvvbtf"
+    },
+    {
+        "line": "3-4 t: fpttgzttwt",
+        "min": 3,
+        "max": 4,
+        "char": "t",
+        "string": "fpttgzttwt"
+    },
+    {
+        "line": "4-8 k: klkkkgkkkk",
+        "min": 4,
+        "max": 8,
+        "char": "k",
+        "string": "klkkkgkkkk"
+    },
+    {
+        "line": "2-8 p: wsdgtplp",
+        "min": 2,
+        "max": 8,
+        "char": "p",
+        "string": "wsdgtplp"
+    },
+    {
+        "line": "9-11 q: qqqqqqqqzqv",
+        "min": 9,
+        "max": 11,
+        "char": "q",
+        "string": "qqqqqqqqzqv"
+    },
+    {
+        "line": "1-2 n: nswlnnngxsj",
+        "min": 1,
+        "max": 2,
+        "char": "n",
+        "string": "nswlnnngxsj"
+    },
+    {
+        "line": "4-5 p: dgpppkjhvgpgppp",
+        "min": 4,
+        "max": 5,
+        "char": "p",
+        "string": "dgpppkjhvgpgppp"
+    },
+    {
+        "line": "10-17 j: jjjjjjjjjfjjjjjjk",
+        "min": 10,
+        "max": 17,
+        "char": "j",
+        "string": "jjjjjjjjjfjjjjjjk"
+    },
+    {
+        "line": "2-3 l: lbll",
+        "min": 2,
+        "max": 3,
+        "char": "l",
+        "string": "lbll"
+    },
+    {
+        "line": "6-7 n: nhwnnnc",
+        "min": 6,
+        "max": 7,
+        "char": "n",
+        "string": "nhwnnnc"
+    },
+    {
+        "line": "3-4 s: ssws",
+        "min": 3,
+        "max": 4,
+        "char": "s",
+        "string": "ssws"
+    },
+    {
+        "line": "3-9 v: szrvvcxzv",
+        "min": 3,
+        "max": 9,
+        "char": "v",
+        "string": "szrvvcxzv"
+    },
+    {
+        "line": "2-4 p: pgzph",
+        "min": 2,
+        "max": 4,
+        "char": "p",
+        "string": "pgzph"
+    },
+    {
+        "line": "4-6 g: rxnjtpggwggglp",
+        "min": 4,
+        "max": 6,
+        "char": "g",
+        "string": "rxnjtpggwggglp"
+    },
+    {
+        "line": "10-16 v: vvvvvvvvvvvvvvvjvv",
+        "min": 10,
+        "max": 16,
+        "char": "v",
+        "string": "vvvvvvvvvvvvvvvjvv"
+    },
+    {
+        "line": "7-9 j: jljjjmjjj",
+        "min": 7,
+        "max": 9,
+        "char": "j",
+        "string": "jljjjmjjj"
+    },
+    {
+        "line": "6-11 w: wwwwwqwgmwfwwkw",
+        "min": 6,
+        "max": 11,
+        "char": "w",
+        "string": "wwwwwqwgmwfwwkw"
+    },
+    {
+        "line": "12-15 w: wqwwwwtwwxwwwfwww",
+        "min": 12,
+        "max": 15,
+        "char": "w",
+        "string": "wqwwwwtwwxwwwfwww"
+    },
+    {
+        "line": "8-11 v: vvvvvvvvvvd",
+        "min": 8,
+        "max": 11,
+        "char": "v",
+        "string": "vvvvvvvvvvd"
+    },
+    {
+        "line": "7-11 g: dcgpcggpgxggdphgm",
+        "min": 7,
+        "max": 11,
+        "char": "g",
+        "string": "dcgpcggpgxggdphgm"
+    },
+    {
+        "line": "3-5 w: wwrwg",
+        "min": 3,
+        "max": 5,
+        "char": "w",
+        "string": "wwrwg"
+    },
+    {
+        "line": "9-16 b: bbbqbbbbbbbbbbbbb",
+        "min": 9,
+        "max": 16,
+        "char": "b",
+        "string": "bbbqbbbbbbbbbbbbb"
+    },
+    {
+        "line": "7-8 n: tnnnnnnnnn",
+        "min": 7,
+        "max": 8,
+        "char": "n",
+        "string": "tnnnnnnnnn"
+    },
+    {
+        "line": "3-5 c: ccsctcm",
+        "min": 3,
+        "max": 5,
+        "char": "c",
+        "string": "ccsctcm"
+    },
+    {
+        "line": "10-17 f: rfsfffffvffjfnkfq",
+        "min": 10,
+        "max": 17,
+        "char": "f",
+        "string": "rfsfffffvffjfnkfq"
+    },
+    {
+        "line": "6-11 f: fffhffffffp",
+        "min": 6,
+        "max": 11,
+        "char": "f",
+        "string": "fffhffffffp"
+    },
+    {
+        "line": "10-11 n: hbsnnnntnppdnnzj",
+        "min": 10,
+        "max": 11,
+        "char": "n",
+        "string": "hbsnnnntnppdnnzj"
+    },
+    {
+        "line": "3-4 x: ngxbxxx",
+        "min": 3,
+        "max": 4,
+        "char": "x",
+        "string": "ngxbxxx"
+    },
+    {
+        "line": "6-11 t: ttbwkznllhtntbdtltt",
+        "min": 6,
+        "max": 11,
+        "char": "t",
+        "string": "ttbwkznllhtntbdtltt"
+    },
+    {
+        "line": "5-6 s: sssssms",
+        "min": 5,
+        "max": 6,
+        "char": "s",
+        "string": "sssssms"
+    },
+    {
+        "line": "15-16 c: ccccccccccccccqc",
+        "min": 15,
+        "max": 16,
+        "char": "c",
+        "string": "ccccccccccccccqc"
+    },
+    {
+        "line": "3-5 h: jzslhlhh",
+        "min": 3,
+        "max": 5,
+        "char": "h",
+        "string": "jzslhlhh"
+    },
+    {
+        "line": "7-12 m: mxmjmjmmmmhkm",
+        "min": 7,
+        "max": 12,
+        "char": "m",
+        "string": "mxmjmjmmmmhkm"
+    },
+    {
+        "line": "7-9 r: mtbfxlrvrddrvgxrxxr",
+        "min": 7,
+        "max": 9,
+        "char": "r",
+        "string": "mtbfxlrvrddrvgxrxxr"
+    },
+    {
+        "line": "14-20 m: gmmlpvclmkvfkmjdslvm",
+        "min": 14,
+        "max": 20,
+        "char": "m",
+        "string": "gmmlpvclmkvfkmjdslvm"
+    },
+    {
+        "line": "11-17 v: rqvvtmktpvckpvvvv",
+        "min": 11,
+        "max": 17,
+        "char": "v",
+        "string": "rqvvtmktpvckpvvvv"
+    },
+    {
+        "line": "15-16 b: bbbbbbbbbbbbjblbbc",
+        "min": 15,
+        "max": 16,
+        "char": "b",
+        "string": "bbbbbbbbbbbbjblbbc"
+    },
+    {
+        "line": "3-5 z: vpsgzfzvxczbnzw",
+        "min": 3,
+        "max": 5,
+        "char": "z",
+        "string": "vpsgzfzvxczbnzw"
+    },
+    {
+        "line": "5-6 j: shlfjc",
+        "min": 5,
+        "max": 6,
+        "char": "j",
+        "string": "shlfjc"
+    },
+    {
+        "line": "10-16 b: bbbbbbbbbbbbbbbsn",
+        "min": 10,
+        "max": 16,
+        "char": "b",
+        "string": "bbbbbbbbbbbbbbbsn"
+    },
+    {
+        "line": "1-7 j: jjjrkrdq",
+        "min": 1,
+        "max": 7,
+        "char": "j",
+        "string": "jjjrkrdq"
+    },
+    {
+        "line": "14-16 x: xbxxxxxxxxxxxjxxx",
+        "min": 14,
+        "max": 16,
+        "char": "x",
+        "string": "xbxxxxxxxxxxxjxxx"
+    },
+    {
+        "line": "2-6 b: vzpnbbpqfbbvcbmbchm",
+        "min": 2,
+        "max": 6,
+        "char": "b",
+        "string": "vzpnbbpqfbbvcbmbchm"
+    },
+    {
+        "line": "10-16 x: xxxrxxxvxxxxxqxxxxk",
+        "min": 10,
+        "max": 16,
+        "char": "x",
+        "string": "xxxrxxxvxxxxxqxxxxk"
+    },
+    {
+        "line": "10-12 j: jjrkjjjjjjjjj",
+        "min": 10,
+        "max": 12,
+        "char": "j",
+        "string": "jjrkjjjjjjjjj"
+    },
+    {
+        "line": "1-5 l: lxfslmj",
+        "min": 1,
+        "max": 5,
+        "char": "l",
+        "string": "lxfslmj"
+    },
+    {
+        "line": "10-16 s: ssssssssssssssszsss",
+        "min": 10,
+        "max": 16,
+        "char": "s",
+        "string": "ssssssssssssssszsss"
+    },
+    {
+        "line": "12-15 r: rrgrrrrrrrrcrrr",
+        "min": 12,
+        "max": 15,
+        "char": "r",
+        "string": "rrgrrrrrrrrcrrr"
+    },
+    {
+        "line": "10-11 c: ccctccccccj",
+        "min": 10,
+        "max": 11,
+        "char": "c",
+        "string": "ccctccccccj"
+    },
+    {
+        "line": "13-14 f: fqgsffffqffffvfffff",
+        "min": 13,
+        "max": 14,
+        "char": "f",
+        "string": "fqgsffffqffffvfffff"
+    },
+    {
+        "line": "14-15 f: ffffffjffffffqff",
+        "min": 14,
+        "max": 15,
+        "char": "f",
+        "string": "ffffffjffffffqff"
+    },
+    {
+        "line": "8-14 q: gtqqjqqwwxqvprdqpcqq",
+        "min": 8,
+        "max": 14,
+        "char": "q",
+        "string": "gtqqjqqwwxqvprdqpcqq"
+    },
+    {
+        "line": "8-11 f: lqqfqpmffffgcs",
+        "min": 8,
+        "max": 11,
+        "char": "f",
+        "string": "lqqfqpmffffgcs"
+    },
+    {
+        "line": "6-8 f: frfshkfklf",
+        "min": 6,
+        "max": 8,
+        "char": "f",
+        "string": "frfshkfklf"
+    },
+    {
+        "line": "10-11 w: wlwwwwwwwwrw",
+        "min": 10,
+        "max": 11,
+        "char": "w",
+        "string": "wlwwwwwwwwrw"
+    },
+    {
+        "line": "2-5 q: qqmmqmmqqq",
+        "min": 2,
+        "max": 5,
+        "char": "q",
+        "string": "qqmmqmmqqq"
+    },
+    {
+        "line": "8-9 g: cjgscgwtg",
+        "min": 8,
+        "max": 9,
+        "char": "g",
+        "string": "cjgscgwtg"
+    },
+    {
+        "line": "1-3 w: wljwwvjdcwnkmn",
+        "min": 1,
+        "max": 3,
+        "char": "w",
+        "string": "wljwwvjdcwnkmn"
+    },
+    {
+        "line": "4-5 q: qcqqxq",
+        "min": 4,
+        "max": 5,
+        "char": "q",
+        "string": "qcqqxq"
+    },
+    {
+        "line": "11-18 g: gqgggvgggghgkggggggg",
+        "min": 11,
+        "max": 18,
+        "char": "g",
+        "string": "gqgggvgggghgkggggggg"
+    },
+    {
+        "line": "8-12 z: tbmbzbzhnppz",
+        "min": 8,
+        "max": 12,
+        "char": "z",
+        "string": "tbmbzbzhnppz"
+    },
+    {
+        "line": "2-3 t: tzttt",
+        "min": 2,
+        "max": 3,
+        "char": "t",
+        "string": "tzttt"
+    },
+    {
+        "line": "2-5 s: zjlsssssmsss",
+        "min": 2,
+        "max": 5,
+        "char": "s",
+        "string": "zjlsssssmsss"
+    },
+    {
+        "line": "8-16 w: mwwqwrwwskwcwwbww",
+        "min": 8,
+        "max": 16,
+        "char": "w",
+        "string": "mwwqwrwwskwcwwbww"
+    },
+    {
+        "line": "3-7 t: ttwttttt",
+        "min": 3,
+        "max": 7,
+        "char": "t",
+        "string": "ttwttttt"
+    },
+    {
+        "line": "1-4 p: ppclpbpppp",
+        "min": 1,
+        "max": 4,
+        "char": "p",
+        "string": "ppclpbpppp"
+    },
+    {
+        "line": "7-9 c: cccccckcxccccc",
+        "min": 7,
+        "max": 9,
+        "char": "c",
+        "string": "cccccckcxccccc"
+    },
+    {
+        "line": "9-13 g: dgggggcgrrggggggg",
+        "min": 9,
+        "max": 13,
+        "char": "g",
+        "string": "dgggggcgrrggggggg"
+    },
+    {
+        "line": "4-5 v: vvvvvvvvvvvvvv",
+        "min": 4,
+        "max": 5,
+        "char": "v",
+        "string": "vvvvvvvvvvvvvv"
+    },
+    {
+        "line": "15-16 l: lllllllllnlllsqkl",
+        "min": 15,
+        "max": 16,
+        "char": "l",
+        "string": "lllllllllnlllsqkl"
+    },
+    {
+        "line": "2-6 p: pppjptvpkxp",
+        "min": 2,
+        "max": 6,
+        "char": "p",
+        "string": "pppjptvpkxp"
+    },
+    {
+        "line": "11-18 j: jjjjjjjjrjcjgjkjjhjj",
+        "min": 11,
+        "max": 18,
+        "char": "j",
+        "string": "jjjjjjjjrjcjgjkjjhjj"
+    },
+    {
+        "line": "2-6 x: znkxkc",
+        "min": 2,
+        "max": 6,
+        "char": "x",
+        "string": "znkxkc"
+    },
+    {
+        "line": "14-15 b: bbbbbbbbtbbbbssbt",
+        "min": 14,
+        "max": 15,
+        "char": "b",
+        "string": "bbbbbbbbtbbbbssbt"
+    },
+    {
+        "line": "3-8 b: bszbbvbb",
+        "min": 3,
+        "max": 8,
+        "char": "b",
+        "string": "bszbbvbb"
+    },
+    {
+        "line": "15-16 t: dtttttttxtpttttrttt",
+        "min": 15,
+        "max": 16,
+        "char": "t",
+        "string": "dtttttttxtpttttrttt"
+    },
+    {
+        "line": "10-11 b: bwbkqbvdbvj",
+        "min": 10,
+        "max": 11,
+        "char": "b",
+        "string": "bwbkqbvdbvj"
+    },
+    {
+        "line": "14-17 k: krjwkfgsqkzjklkkkvxg",
+        "min": 14,
+        "max": 17,
+        "char": "k",
+        "string": "krjwkfgsqkzjklkkkvxg"
+    },
+    {
+        "line": "13-16 d: ddddddddddddqddd",
+        "min": 13,
+        "max": 16,
+        "char": "d",
+        "string": "ddddddddddddqddd"
+    },
+    {
+        "line": "3-15 s: jmsnpmldstjngfmrp",
+        "min": 3,
+        "max": 15,
+        "char": "s",
+        "string": "jmsnpmldstjngfmrp"
+    },
+    {
+        "line": "1-6 s: stssssn",
+        "min": 1,
+        "max": 6,
+        "char": "s",
+        "string": "stssssn"
+    },
+    {
+        "line": "8-12 b: bbbbbthpwlbb",
+        "min": 8,
+        "max": 12,
+        "char": "b",
+        "string": "bbbbbthpwlbb"
+    },
+    {
+        "line": "3-4 r: rdrf",
+        "min": 3,
+        "max": 4,
+        "char": "r",
+        "string": "rdrf"
+    },
+    {
+        "line": "10-11 l: glllllllllk",
+        "min": 10,
+        "max": 11,
+        "char": "l",
+        "string": "glllllllllk"
+    },
+    {
+        "line": "7-16 m: vxjgnbmmbzsxlhblj",
+        "min": 7,
+        "max": 16,
+        "char": "m",
+        "string": "vxjgnbmmbzsxlhblj"
+    },
+    {
+        "line": "4-7 b: bsthbwjrkbmptb",
+        "min": 4,
+        "max": 7,
+        "char": "b",
+        "string": "bsthbwjrkbmptb"
+    },
+    {
+        "line": "5-7 q: qqdmjqqqq",
+        "min": 5,
+        "max": 7,
+        "char": "q",
+        "string": "qqdmjqqqq"
+    },
+    {
+        "line": "2-16 v: rvvvvvvvvvrvvvvvvvv",
+        "min": 2,
+        "max": 16,
+        "char": "v",
+        "string": "rvvvvvvvvvrvvvvvvvv"
+    },
+    {
+        "line": "2-3 n: nnnbm",
+        "min": 2,
+        "max": 3,
+        "char": "n",
+        "string": "nnnbm"
+    },
+    {
+        "line": "13-16 v: vvvvlvvvvvvxwvvv",
+        "min": 13,
+        "max": 16,
+        "char": "v",
+        "string": "vvvvlvvvvvvxwvvv"
+    },
+    {
+        "line": "4-6 c: nccccccs",
+        "min": 4,
+        "max": 6,
+        "char": "c",
+        "string": "nccccccs"
+    },
+    {
+        "line": "10-14 q: qdgsqqqqqqqqqqqnq",
+        "min": 10,
+        "max": 14,
+        "char": "q",
+        "string": "qdgsqqqqqqqqqqqnq"
+    },
+    {
+        "line": "4-5 g: gjghg",
+        "min": 4,
+        "max": 5,
+        "char": "g",
+        "string": "gjghg"
+    },
+    {
+        "line": "2-7 f: fffffqdf",
+        "min": 2,
+        "max": 7,
+        "char": "f",
+        "string": "fffffqdf"
+    },
+    {
+        "line": "15-18 f: fxffffdfhflffbfxff",
+        "min": 15,
+        "max": 18,
+        "char": "f",
+        "string": "fxffffdfhflffbfxff"
+    },
+    {
+        "line": "7-9 w: gpwwcwwwlwbwfkdw",
+        "min": 7,
+        "max": 9,
+        "char": "w",
+        "string": "gpwwcwwwlwbwfkdw"
+    },
+    {
+        "line": "14-17 q: qqjqqqqqqqqnqhqqrhqq",
+        "min": 14,
+        "max": 17,
+        "char": "q",
+        "string": "qqjqqqqqqqqnqhqqrhqq"
+    },
+    {
+        "line": "1-4 d: djdqkdkddlvdqdt",
+        "min": 1,
+        "max": 4,
+        "char": "d",
+        "string": "djdqkdkddlvdqdt"
+    },
+    {
+        "line": "4-9 w: qwsvpbwdcngsww",
+        "min": 4,
+        "max": 9,
+        "char": "w",
+        "string": "qwsvpbwdcngsww"
+    },
+    {
+        "line": "4-9 b: bbbbbbbbb",
+        "min": 4,
+        "max": 9,
+        "char": "b",
+        "string": "bbbbbbbbb"
+    },
+    {
+        "line": "6-15 g: gmdhggngqdfgqsggsvg",
+        "min": 6,
+        "max": 15,
+        "char": "g",
+        "string": "gmdhggngqdfgqsggsvg"
+    },
+    {
+        "line": "9-16 b: bbbbbbbbdmtbbdbbc",
+        "min": 9,
+        "max": 16,
+        "char": "b",
+        "string": "bbbbbbbbdmtbbdbbc"
+    },
+    {
+        "line": "8-9 k: kkxkkkdkkkzkdp",
+        "min": 8,
+        "max": 9,
+        "char": "k",
+        "string": "kkxkkkdkkkzkdp"
+    },
+    {
+        "line": "1-8 b: bbxbdbnbjcbbb",
+        "min": 1,
+        "max": 8,
+        "char": "b",
+        "string": "bbxbdbnbjcbbb"
+    },
+    {
+        "line": "15-19 q: qqqqqqvqqqqqqsqqqqq",
+        "min": 15,
+        "max": 19,
+        "char": "q",
+        "string": "qqqqqqvqqqqqqsqqqqq"
+    },
+    {
+        "line": "3-4 t: tttt",
+        "min": 3,
+        "max": 4,
+        "char": "t",
+        "string": "tttt"
+    },
+    {
+        "line": "2-5 j: bjjjj",
+        "min": 2,
+        "max": 5,
+        "char": "j",
+        "string": "bjjjj"
+    }
+]

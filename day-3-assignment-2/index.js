@@ -69,9 +69,17 @@ function travel( map, path ) {
 ( async () => {
 	const map = await getMap();
 
-	const encounters = travel( map, [ { "x": 3, "y": 1 } ] );
+	const encounters1 = travel( map, [ { "x": 1, "y": 1 } ] );
+	const encounters2 = travel( map, [ { "x": 3, "y": 1 } ] );
+	const encounters3 = travel( map, [ { "x": 5, "y": 1 } ] );
+	const encounters4 = travel( map, [ { "x": 7, "y": 1 } ] );
+	const encounters5 = travel( map, [ { "x": 1, "y": 2 } ] );
 
 	console.log(
-		encounters.encountersPerPath.tree
+		encounters1.encountersPerPath.tree *
+		encounters2.encountersPerPath.tree *
+		encounters3.encountersPerPath.tree *
+		encounters4.encountersPerPath.tree *
+		encounters5.encountersPerPath.tree
 	);
 } )();

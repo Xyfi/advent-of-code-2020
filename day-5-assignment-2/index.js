@@ -1,4 +1,3 @@
-const { exit } = require("process");
 const makeLineReader = require( "./lineReaderGenerator" );
 
 const lineReader = makeLineReader();

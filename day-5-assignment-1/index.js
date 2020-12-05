@@ -18,22 +18,10 @@ const lineReader = makeLineReader();
 } )();
 
 function getSeat( boardingPass ) {
-    let row = 0, seat = 0, i = 0;
-    currentInstruction = boardingPass[ i ];
-    while ( currentInstruction === "F" || currentInstruction === "B" ) {
-        row = row << 1;
-        if ( currentInstruction === "B" ) {
-            row++;
-        }
-        currentInstruction = boardingPass[ ++i ];
-    }
-    while( currentInstruction !== "" ) {
-        seat = seat << 1;
-        if ( currentInstruction === "R" ) {
-            seat++;
-        }
-        currentInstruction = boardingPass.charAt( ++i );
-    }
+    let row = 0, seat = 0;
+
+    row = parseInt( boardingPass.match( /^[FB]+/ )[0].replace( /[FB]{1}/g, c => c === "B" ? "1" : "0" ), 2 );
+    seat = parseInt( boardingPass.match( /[RL]+/ )[0].replace( /[RL]{1}/g, c => c === "R" ? "1" : "0" ), 2 );
 
     return {
         seat,

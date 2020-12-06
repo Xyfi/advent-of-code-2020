@@ -10,8 +10,7 @@ module.exports = async function*() {
     });
     // Note: we use the crlfDelay option to recognize all instances of CR LF
     // ('\r\n') in input.txt as a single line break.
-  
-    const regex = /([0-9]+)-([0-9]+) (\w): (\w+)/
+
     for await (const line of rl) {
         yield line;
     }

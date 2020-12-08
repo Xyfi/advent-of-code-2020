@@ -1,10 +1,10 @@
 const memoize = require( "../../helpers/memoize" );
 
 class Bag {
-    constructor( color, contents, bagRepo ) {
+    constructor( color, contents, bagRepository ) {
         this.color = color;
         this.contents = contents;
-        this.repo = bagRepo;
+        this.repo = bagRepository;
         
         this.contains = memoize( this.contains );
         this.getInnerBagCount = memoize( this.getInnerBagCount );

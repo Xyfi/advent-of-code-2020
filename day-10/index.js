@@ -1,4 +1,3 @@
-const { LOADIPHLPAPI } = require("dns");
 const readFile = require( "../helpers/readFile" );
 
 ( async () => {
@@ -22,11 +21,11 @@ const readFile = require( "../helpers/readFile" );
 
     console.log( differences[ 1 ] * differences[ 3 ] );
 
-    console.log( getTotalCombinations( adapters, 3 ) );
+    console.log( getTotalCombinations( adapters ) );
 } )();
 
 const cache = {};
-function getTotalCombinations( adapters, maxStep, index = 0 ) {
+function getTotalCombinations( adapters, maxStep = 3, index = 0 ) {
     if ( cache[ index ] ) {
         return cache[ index ];
     }

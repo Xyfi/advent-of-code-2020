@@ -1,16 +1,13 @@
-const { setPriority } = require("os");
-const { serialize } = require("v8");
-const { compileFunction } = require("vm");
-
 const lineReader = require( "../helpers/lineReaderGenerator" )( require( "path" ).resolve( __dirname, "input.txt" ) );
 
 const run = async () => {
     const map = new SeatingMap();
     await map.init();
 
-    let occupied = map.countOccupied();
-
-    while( true ) {
+    let occupied;
+    do {
+        occupied = map.countOccupied();
+        
         for ( let seat of map ) {
             const occupiedAdjacentSeats = seat.getAdjacent().filter( seat => seat.isOccupied() ).length;
             if ( occupiedAdjacentSeats >= 4 ) {
@@ -21,19 +18,15 @@ const run = async () => {
         }
 
         map.commitChanges();
-        if ( occupied === map.countOccupied() ) {
-            occupied = map.countOccupied();
-            break;
-        }
-        occupied = map.countOccupied();
-    }
+    } while( occupied !== map.countOccupied() );
 
     console.log( "Assignment 1:", occupied );
 
     map.reset();
 
-    occupied = map.countOccupied();
-    while( true ) {
+    do {
+        occupied = map.countOccupied();
+
         for ( let seat of map ) {
             const occupiedVisibleSeats = seat.getVisible().filter( seat => seat.isOccupied() ).length;
             if ( occupiedVisibleSeats >= 5 ) {
@@ -44,12 +37,7 @@ const run = async () => {
         }
 
         map.commitChanges();
-        if ( occupied === map.countOccupied() ) {
-            occupied = map.countOccupied();
-            break;
-        }
-        occupied = map.countOccupied();
-    }
+    } while( occupied !== map.countOccupied() );
 
     console.log( "Assignment 2:", occupied );
 };

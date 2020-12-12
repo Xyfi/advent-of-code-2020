@@ -63,18 +63,22 @@ const directions = [
     console.log( "Assignment 2:", Math.abs( ship2.x ) + Math.abs( ship2.y ) );
 } )();
 
-
-
-class Ship {
-    constructor( x, y, direction ) {
+class Movable {
+    constructor( x, y ) {
         this.x = x;
         this.y = y;
-        this.direction = direction;
     }
 
     move( distance, direction = this.direction ) {
         this.x += directions[ direction ].x * distance;
         this.y += directions[ direction ].y * distance;
+    }
+}
+
+class Ship extends Movable {
+    constructor( x, y, direction ) {
+        super( x, y );
+        this.direction = direction;
     }
 
     moveTo( waypoint, value ) {
@@ -92,17 +96,7 @@ class Ship {
     }
 }
 
-class Waypoint {
-    constructor( x, y ) {
-        this.x = x;
-        this.y = y;
-    }
-
-    move( distance, direction = this.direction ) {
-        this.x += directions[ direction ].x * distance;
-        this.y += directions[ direction ].y * distance;
-    }
-
+class Waypoint extends Movable{
     rotate( degrees ) {
         if ( degrees < 0 ) {
             degrees = degrees + 360;

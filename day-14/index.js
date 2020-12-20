@@ -1,5 +1,3 @@
-const { SSL_OP_SSLEAY_080_CLIENT_DH_BUG } = require("constants");
-
 const lineReader = require( "../helpers/lineReaderGenerator" )( require( "path" ).resolve( __dirname, "input.txt" ) );
 
 const mem1 = {};
